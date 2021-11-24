@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
+title: iExpo Sommer 2021
+description: Online-Messe der Informatik im Sommersemester 2021
+show_downloads: false
+markdown: kramdown
