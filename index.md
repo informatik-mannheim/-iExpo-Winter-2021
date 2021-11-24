@@ -30,7 +30,7 @@ Auch hier besteht die Übung aus zwei Teilen.
 
 Die Erstellung von Lehrvideos [zu einzelnen Themen](https://www.youtube.com/playlist?list=PL35XGjy0AQArZ6UJPT06e9r3IdhoYmRUF){:target="_blank" rel="noopener"} zu [vorgegebenen Vorlesungsteilen](https://www.youtube.com/playlist?list=PL35XGjy0AQAqb0LdnV-wWbhbu6ZM1uCrn){:target="_blank" rel="noopener"} ist sehr ähnlich zu dem Vorgehen in Programmierung 2.
 
-Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für einen vollständigen kleinen Online-Shop. Dabei ist zunächst ein Konzept zu erstellen, das abgenommen wird. Das Frontend und das Backend werden dann im weiteren Verlauf der Studienleistung umgesetzt.
+Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für einen vollständigen kleinen Online-Shop. Dabei ist zunächst ein Konzept zu erstellen, das abgenommen wird. Das selbst gecodete Frontend (HTML5,CSS3,JS) und Backend (PHP oder Node.JS/Express.JS) werden dann im weiteren Verlauf der Studienleistung umgesetzt.
 
 ### 6./7. Semester: Wahlfach Technisches Trading
 
