@@ -14,7 +14,7 @@ Die folgenden studentischen Arbeiten sind nach den Semestern sortiert, in dem ma
 
 ### 2. Semester: Veranstaltung Programmierung 2
 
-#### Studiengang UIB bei Prof. Dr. Frank Dopatka
+#### Studiengänge IB, UIB, IMB, CSB bei Prof. Dr. Frank Dopatka
 
 Die Übungen zur Studienleistung in diesem Fach bestehen bei mir immer aus 2 Teilen. 
 
@@ -22,41 +22,17 @@ In dem Team-Teil sollte diesmal das Semesterspiel UNO implementiert werden. Die 
 
 Zusätzlich dazu sollten die Studierenden einzeln Videos abgeben, in denen [konkrete Beispiele](https://www.youtube.com/playlist?list=PL35XGjy0AQAqO6LcxLlV3cumtFkb9PmS0){:target="_blank" rel="noopener"} zu [vorgegebenen Vorlesungsteilen](https://www.youtube.com/playlist?list=PL35XGjy0AQAr5JtCR2mFJ4My8iicuNH7W){:target="_blank" rel="noopener"} live zu coden und zu erklären waren.
 
-* [Team A-2](DOP_PR2_A2/)
-* [Team B-1](DOP_PR2_B1/)
-* [Team B-2](DOP_PR2_B2/)
-
 ### 3. Semester: Veranstaltung webbasierte Systeme
 
-#### Studiengänge IB und UIB bei Prof. Dr. Frank Dopatka
+#### Studiengänge UIB, IMB bei Prof. Dr. Frank Dopatka
 
 Auch hier besteht die Übung aus zwei Teilen.
 
 Die Erstellung von Lehrvideos [zu einzelnen Themen](https://www.youtube.com/playlist?list=PL35XGjy0AQArZ6UJPT06e9r3IdhoYmRUF){:target="_blank" rel="noopener"} zu [vorgegebenen Vorlesungsteilen](https://www.youtube.com/playlist?list=PL35XGjy0AQAqb0LdnV-wWbhbu6ZM1uCrn){:target="_blank" rel="noopener"} ist sehr ähnlich zu dem Vorgehen in Programmierung 2.
 
-Statt eines Semesterspiels existiert im 3. Semester ein externer Kunde, der eine Aufgabe in Form einer Webseite oder einer Web-App mitbringt. In diesem Semester war der Kunde Andreas Lindemann, ein Student aus der Fakultät Sozialwesen. Seine Idee bestand darin, eine leicht bedienbare, mehrsprachige HTML5-App für Zugezogene aus dem Ausland nach Mannheim anzubieten. Die App soll bei typischen bürokratischen Formalitäten und Anträgen behilflich sein.
+Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für einen vollständigen kleinen Online-Shop. Dabei ist zunächst ein Konzept zu erstellen, das abgenommen wird. Das Frontend und das Backend werden dann im weiteren Verlauf der Studienleistung umgesetzt.
 
-* [Team B-1](DOP_WEB_B1/)
+### 6./7. Semester: Wahlfach Technisches Trading
 
-### 6./7. Semester: Wahlfach E-Business 
-
-#### Studiengang UIB bei Prof. Dr. Michael Gröschel
-
-Als Teil der Prüfungsleistung schreiben Studierende [Blog-Beiträge zu speziellen Themen](https://ebusiness2020.wordpress.com/category/lehrkonzept/){:target="_blank" rel="noopener"}
-
-### 6./7. Semester: Wahlfach Game Engineering
-
-#### Studiengang IB, UIB, CSB, IMB bei Prof. Dr. Frank Dopatka
-
-Dieses Semester wurde eine real-time Handelssimulationsplatform entwickelt, mit der man Dogecoin handeln kann. Die Top 10 der Nutzer, die innerhalb 30 Minuten den größten Gewinn erziehlen, erscheinen für alle anderen Nutzer im Highscore. Weitere Informationen finden Sie [hier...](DOP_GAE/)
-
-### 7. Semester: Bachelor-Thesis
-
-* [Development and evalution of a voice assistant system based on open source compoments for Raspberry Pi](HUM_Thesis/)
-
-### Projekte
-
-* [Cyber Security Development Project - Seculeet](https://seculeet.com/){:target="_blank" rel="noopener"}
-* [datalab](HUM_Projekt/)
-* [Open Source CoronaTrackingTool](HUM_KLS_Projekt/)
+#### Studiengang UIB bei Prof. Dr. Frank Dopatka
 
