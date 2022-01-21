@@ -32,6 +32,8 @@ Die Erstellung von Lehrvideos [zu einzelnen Themen](https://www.youtube.com/play
 
 Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für einen vollständigen kleinen Online-Shop. Dabei ist zunächst ein Konzept zu erstellen, das abgenommen wird. Das selbst gecodete Frontend (HTML5,CSS3,JS) und Backend (PHP oder Node.JS/Express.JS) werden dann im weiteren Verlauf der Studienleistung umgesetzt.
 
+* [Team B-2](DOP_WEB_B2/)
+
 ### 6./7. Semester: Wahlfach Technisches Trading
 
 #### Studiengang UIB bei Prof. Dr. Frank Dopatka
