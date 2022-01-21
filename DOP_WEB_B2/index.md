@@ -80,7 +80,7 @@ eine eher geringe Anzahl an Punkten. Hier einige Screenshots und ggf.
 Links zu den Videos der einzelnen Gruppenmitglieder:
 
 [Erstellen einer statischen Homepage (Alihan
-Pinarbas)](https://youtu.be/Iy62G7Mo5gQ)
+Pinarbas)](https://youtu.be/Iy62G7Mo5gQ){:target="_blank" rel="noopener"}
 
 HTML-Formulare ![Video Mika
 Richter1](https://i.gyazo.com/e830a818c7b741e10a87dc4677887843.png "Video von Mika Richter")
