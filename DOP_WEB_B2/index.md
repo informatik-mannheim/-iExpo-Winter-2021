@@ -152,13 +152,13 @@ Einzelarbeit. Hierbei waren die Themen allerdings fortgeschrittener, als
 im ersten Übungsblatt und es gab eine höhere Anzahl an Punkten.
 
 [Clientseitige Formularprüfung mit JavaScript (Alihan
-Pinarbas)](https://youtu.be/kcnzwMGqeeg)
+Pinarbas)](https://youtu.be/kcnzwMGqeeg){:target="_blank" rel="noopener"}
 
 [Clientseitige Formularprüfung mit JavaScript (Enes Can
-Sevim)](https://youtu.be/H8EQwJ_hBso)
+Sevim)](https://youtu.be/H8EQwJ_hBso){:target="_blank" rel="noopener"}
 
 [Web-Server Apache Konfiguration, Logging, htaccess und PHP Modul
-vs. CGI (Shopithan Goneswaran)](https://youtu.be/jiB4Y3bT3r8)
+vs. CGI (Shopithan Goneswaran)](https://youtu.be/jiB4Y3bT3r8){:target="_blank" rel="noopener"}
 
 Eine responsive Website mit Menüführung ![Video Mika
 Richter2](https://i.gyazo.com/4c6a6389c5284551fc126f85dea4b234.png "Video von Mika Richter")
