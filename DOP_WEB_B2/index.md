@@ -16,7 +16,7 @@ Das Team
 
 Zunächst möchten wir Ihnen unser Team B2 vorstellen. Hierbei handelt es
 sich um ein Team mit den sechs Studenten Alihan Pinarbas, Burak Bingöl,
-Enes Can Sevim, Mika Richter , Sopithan Goneswaran und Samed
+Enes Can Sevim, Mika Richter, Sopithan Goneswaran und Samed
 Mollamehmetoglu. Jedes Mitglied brachte seine eigenen Kompetenzen und
 Qualitäten zum Ausdruck. Dementsprechend wurden die jeweiligen Aufgaben
 zugewiesen. Da sich die Team-mitglieder schon aus vorherigen
@@ -34,13 +34,13 @@ aus: eine Web-Präsenz für ein fiktives Unternehmen erstellen. Diese
 Anforderung erschien einfach, weil man selber entscheiden durfte, wie
 die Webseite gestaltet wird. Auf drei Blätter aufgeteilt mussten wir vom
 einfachen Konzept bis zur voll funktionsfähigen Webseite unsere Vision
-verwirklichen. Das Szenario war so aufgebaut, dass Prof.Dr.Dopatka
+verwirklichen. Das Szenario war so aufgebaut, dass Prof. Dr. Dopatka
 sowohl als Berater als auch als Kunde fungierte. So wurde uns von ihm
 sowohl der Theoriestoff vermittelt, als auch Anforderungen zugewiesen.
 Falls es Unklarheiten gab mussten diese stets mit dem Kunden im
 Kundenforum besprochen werden. Jeden Freitag hatten wir die Chance bei
-einem "Kundentermin" mit Prof.Dr Dopatka unseren Fortschritt
-vorzustellen, welcher im Anschluss von Prof.Dr Dopatka bepunktet und mit
+einem "Kundentermin" mit Prof. Dr. Dopatka unseren Fortschritt
+vorzustellen, welcher im Anschluss von Prof. Dr. Dopatka bepunktet und mit
 sinnvollen Beiträgen kommentiert wurde.
 
 Das Konzept der Übungsblätter
