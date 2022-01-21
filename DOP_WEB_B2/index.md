@@ -1,347 +1,286 @@
-## Veranstaltung Webbasierte Systeme, IB, UIB
-### Dozent: Prof. Dr. Frank Dopatka
-
-[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
-
-Wir, das Team B1, bestehend aus:
-* Daniel Kalotai
-* David Miller
-* Florian Krembel
-* Vitali Lenhardt
-* Salvatore Scionti
-
-aus der Vorlesung Webbasierte Systeme stellen unser Projekt vor.
-
-
-## Aufgabenstellung
-### Ausgangssituation:
-```
-Eine vierköpfige Familie kommt aus Bulgarien nach Mannheim. Die Mutter A. (34) und Vater P.
-(35), die Kinder S. (8) und T. (5). Die Eltern haben jeweils ein Smartphone.
-Die Eltern möchten in Deutschland arbeiten. Um eine Arbeit aufnehmen zu können, brauchen sie
-eine Krankenversicherung und ein Bankkonto. Das haben sie von Freunden erfahren, die schon
-länger in Deutschland sind.
-Um eine Krankenversicherung und ein Bankkonto zu bekommen, benötigt man eine Adresse. Also
-eine Wohnung und ein Dokument, welches die Meldeadresse bestätigt. Dies geschieht über einen
-Ausweis und einer amtlichen Meldebescheinigung. Alle Briefe und Bescheinigungen erhält die
-Familie natürlich auf Deutsch, aber niemand liest oder spricht Deutsch.
-
-```
-Unsere Aufgabenstellung war es als IT-Unternehmen eine HTML5-basierte App zu dem zugewiesenen Thema zu entwickeln, die für Smartphones
-optimiert ist.
-Unser zugewiesenes Thema war ein Formular zur Wohnungsanmeldung der Statd Mannheim. 
-
-![Das Formular](images/Formular.PNG)
-
-### Skizzierte Abläufe:
-```
-Beim Starten der App wird man im allerersten Schritt nach der Sprache gefragt. Die App soll die
-Familie über den Inhalt und Kontext von solchen Briefen und Formularen sowohl in einfachem
-Deutsch, als auch in einfachem Englisch aufklären. Weitere Sprachen sind gewünscht, wenn Ihre
-Teambesetzung dies hergibt.
-Man soll sich an der App registrieren können mit einer Mailadresse und einem Kennwort.
-Zusätzlich soll bei der Registrierung optional der Vorname, Nachname, die Anschrift und das
-Geburtsdatum eingegeben werden können. Meldet man sich nach der Registrierung über einen
-Login an, so stehen alle zuvor eingegebenen Daten aus einer Datenbank zur Verfügung.
-Die App soll aber auch ohne eine Registrierung bedienbar sein, in dem sie nur bei einem einzigen
-konkreten Dokument unterstützt.
-Nach dem Login oder auch direkt soll die App nachfragen, bei welchem Dokument sie unterstützen
-soll? Dies soll ein Brief, ein Formular oder ein Vertrag sein. In diesem Semester werden das nur
-Formulare sein. Danach soll man das konkrete Formular auswählen können, um das es geht.
-Optional soll es möglich sein, nach der Dokumentauswahl „Brief“ ein Foto der ersten Seite eines
-Briefs auf Ihren Server hochzuladen. Dieser führt dann z.B. eine OCR-Texterkennung durch und
-ist in der Lage, den Brief selbst zu identifizieren. Für eine solche Lösung werden Sie im späteren
-Verlauf Zusatzpunkte erhalten.
-In allen Fällen weiß die App nun, welches konkrete Dokument zu bearbeiten ist. Sie bietet nun
-dreierlei Dienstleistungen an.
-Einerseits wird die Bedeutung des Dokuments in der ausgewählten Sprache sehr leicht
-verständlich erklärt.
-Andererseits soll man alle Daten in sehr einfachen HTML-Formularfeldern eingeben können, so
-dass das Formular ausgefüllt wird. Dazu bietet die App abschließend den Download des
-ausgefüllten Formulars als PDF-Datei an.
-Drittens verweist die App mit dem folgenden Text und Link an einen Kontakt, wenn man noch
-weitere Hilfe braucht: „Wenn Ihnen irgendwas unklar geblieben ist, oder Sie weitere Fragen haben, 
-kontaktieren Sie bitte eine Beratungsstelle wie die ANIMA unter
-https://www.mannheim.de/de/service-bieten/integration-migration/anima-ankommen-in-mannheim“
-```
-
-### Aufgabenblätter
-Die Aufgaben wurden in drei Blätter aufgeteilt. Jede Aufgabe wird mit der Lösung in der folgenden Präsentation gezeigt.
-Neben des Projektes gab es noch Einzelleistungen zu bearbeiten. Diese war die Erstellung von Lehrvideos. Jedes Teammitglied hatte ein individuelles Thema zugewiesen bekommen.
-Die erstellten Lehrvideos werden auch in der folgenden Präsentation vorgestellt.
-
-
-## Aufgabenblatt 1
-Im ersten Aufgabenblatt bestand unsere Aufgabe darin, die oben skizzierten Abläufe der App detailliert
-anhand von Diagrammen zu beschreiben: 
-* Was kann der Benutzer genau tun?
-* Was tut daraufhin die App auf dem Client und was passiert dann auf dem Server?
-
-Die Fachlogik war komplett serverseitig zu implementieren.
-Die Diagramme wurden jeweils als BPMN Modelle bearbeitet.
-
-### Diagramme
-![GitHub Logo](images/AllgemeinBPMN.PNG)
-
-![GitHub Logo](images/ausgefuellteDokumenteAufrufen.PNG)
-
-![GitHub Logo](images/FormularfeldAusfuellen.PNG)
-
-![GitHub Logo](images/NutzerdatenAbrufen.PNG)
-
-![GitHub Logo](images/NutzerdatenAnlegenVerwalten.PNG)
-
-![GitHub Logo](images/SeiteAnfordern.PNG)
-
-### Lehrvideos aus Blatt 1
-#### Daniel Kalotai
-##### Thema: 
-HTTP-Server-CGI-Module
-
-##### Beschreibunbg:  
-In diesem Video wurde erläutert, wie die HTTP-Server-CGI-Module funktionieren mit einem Apache2 Webserver (Anhand einer lokalen Installation).
-
-![GitHub Logo](images/Daniel_Lehrvideo_1.PNG)
-
-
-##### Thema: 
-Tools der Übung
-
-##### Beschreibung: 
-In diesem Video wurden die Tools WireShark und Postman vorgestellt. WireShark mit einem PXE Boot Beispiel, in dem gezeigt wurde, dass der DHCP keine IP Addresse
-vergibt, aufgrund von fehlenden PXE Parametern. Postman wurde vorgestellt mit einer REST-Api und mit verschiedenen GET/POST/PUT Routen.
-
-![GitHub Logo](images/Daniel_Lehrvideo_2.PNG)
-
-#### David Miller
-##### Thema: 
-Tools der Übung
-
-##### Beschreibung: 
-In diesem Video wurden die Installation und die Verwendung der Tools Wireshark, Postman und XAMPP mit ihren wichtigsten Funktionen vorgestellt. 
-Bei XAMPP liegt die Verwendung von PHP und der Datenbank MySQL/MariaDB über phpMyAdmin im Fokus.
-
-![GitHub Logo](images/David_Lehrvideo_2.PNG)
-
-#### Florian Krembel
-##### Thema: 
-Schichtenmodell-HTTP-HTTPS sowie URI-URL-URN
-
-##### Beschreibunbg: 
-Einige technische Grundlagen zur Webkommunikation werden anhand von Definitionen und Beispielen erklärt. Darüber hinaus wird der Aufbau und Unterschied von URI,
-URL und URN erläutert.
-
-![GitHub Logo](images/Florian_Lehrvideo_1.png)
-
-##### Thema:
-HTML – Formulare
-
-##### Beschreibung: 
-Es werden diverse HTML5-Formulare beispielhaft gezeigt und erklärt.
-
-![GitHub Logo](images/Florian_Lehrvideo_2.png)
-
-#### Vitali Lenhardt
-##### Thema: 
-HTTP-Kommunikation zwischen Client und Server
-
-##### Beschreibung: 
-Erstellung von Requests und Erklärung der dazugehörenden Responeses anhand von Postman.
-Außerdem das Erklären der aufgezeichneten Pakete der HTTP-Kommunikation mit Wireshark
-
-![GitHub Logo](images/Vitali_Lehrvideo_1.PNG)
-
-##### Thema: 
-Grundlagen und Neuerungen von HTML
-
-##### Beschreibung: 
-Erstellung einer einfachen HTML5-Seite.
-Erklären der Grundlagen wie zum Beispiel Listen, Verankerungen und Medieneinbindungen (Bild, Audio, Video).
-
-![GitHub Logo](images/Vitali_Lehrvideo_2.PNG)
-
-#### Salvatore Scionti
-##### Thema: 
-Schichtenmodell-HTTP-HTTPS sowie URI-URL-URN
-
-##### Beschreibung: 
-In diesem Video wird einerseits sehr theoretisch das Schichtenmodell (OSI/TCP-IP) sowie der Unterschied zwischen URI, URL und URN vorgetragen, andererseits etwas praktischer
-HTTP und HTTPS anhand von Wireshark durchleuchtet. Hierzu wird auf die Seite der Hochschule zugegriffen.
-
-![GitHub Logo](images/Salvo_Lehrvideo_1.PNG)
-
-##### Thema: 
-HTML – Formulare
-
-##### Beschreibung: 
-Anhand eines frisch erstellten HTML-Dokumentes werden die Formularelemente von HTML5 vorgestellt. Dafür wird Schritt für Schritt auf ein jedes Feld sehr ausführlich eingegangen.
-
-![GitHub Logo](images/Salvo_Lehrvideo_2.PNG)
-
-
-## Aufgabenblatt 2
-Aufgabenblatt 2 beschäftigte sich mit dem Frontend des Clients, welches für mobile Endgeräte optimiert werden soll.
-Es soll eine Homepage im HTML-5 Format erstellt werden, diese soll folgende Hauptseiten beinhalten:
-* Über uns
-* Login-Formular mit Benutzernamen und Kennwort
-* Menüseite
-* Datenschutz
-* Impressum
-
-Zusätzlich soll die Antragsstellung vollständig assistenten-basiert in Form von HTML5-
-Formularen implementiert werden. 
-
-### Frontend Beispiele:
-#### Anmeldung:
-
-![Anmeldung](images/Frontend_Anmeldung.PNG)
-
-#### Menue Auswahl:
-
-![Das Formular](images/Frontend_menueauswahl.PNG)
-
-#### Daten zur neuen Wohnung:
-
-![Das Formular](images/Frontend_neuewohnung.PNG)
-
-### Vorstellung der HTML-5 Seiten (Video)
-In diesem Video wird die komplette Webseite präsentiert. Sie können gerne auf das Bild klicken (Link zum Video).
-
-[![Vorstellung Web-B1](images/Vorstellung_Web-B1.PNG)](https://www.dropbox.com/s/rpaw4yw7s2vdzqe/Web%20Video.mp4?dl=0/)
-
-### Lehrvideos aus Blatt 2
-#### Daniel Kalotai
-##### Thema: 
-JavaScript: Objekte
-
-##### Beschreibung:
-In diesem Video werden die JavaScript Objekte vorgestellt, wie man auf diese zugreifen/erstellen kann und wie man anhand eines Prototypes Funktionen vererben kann.
-Ebenso werden auch die verschiedenen Funktionen gezeigt, wie ein Objekt anhand einer Factory Funktion, Konstruktor oder auch die Klassen in Javascript aussehen. Datahiding wird
-ebenfalls angesprochen, sowie die Vererbung von Objekten.
-
-[![JavaScript Objekte (Daniel Kalotai)](images/Daniel_Lehrvideo_3.PNG)](https://www.youtube.com/watch?v=Y8LBUTZn9xQ/)
-
-#### David Miller
-##### Thema: 
-CSS: Einleitung, Farben, Maßangaben, Einbinden in HTML-Dateien
-
-##### Beschreibung:
-In diesem Video wurde erläutert, wie man eine HTML Datei mittels CSS visuell verändern kann. 
-
-![GitHub Logo](images/David_Lehrvideo_3.PNG)
-
-#### Florian Krembel
-##### Thema: 
-Javascript DOM
-
-##### Beschreibung:
-Das Document-Object-Model wird erklärt, außerdem werden einige Javascript-Funktionen zur Manipulation des DOM-Baums anhand diverser Beispiele gezeigt und
-erläutert.
-
-![GitHub Logo](images/Florian_Lehrvideo_3.png)
-
-#### Vitali Lenhardt
-##### Thema: 
-JavaScript: Eventhandler
-
-##### Beschreibung: 
-Erstellung einer HTML5-Seite mit der Einbindung von JavaScript beziehungsweise dessen Eventhandler.
-Darstellen einfacher Beispiele um die ereignisbasierte Programmierung zu veranschaulichen.
-
-![GitHub Logo](images/Vitali_Lehrvideo_3.PNG)
-
-#### Salvatore Scionti
-##### Thema: 
-CSS: Box-Modell
-
-##### Beschreibung: 
-Auch hier wird eine HTML-Datei erstellt, dieses Mal jedoch begleitet von einer CSS-Datei, welche die HTML im Rahmen des sogenannten Box-Modells ausschmückt. Um das zu tun,
-schauen wir uns im Video etliche Möglichkeiten an, das zu tun.
-
-![GitHub Logo](images/Salvo_Lehrvideo_3.PNG)
-
-## Aufgabenblatt 3
-Im dritten und letzten Aufgabenblatt, wurde gefordert, das Backend hinter der Webseite zu erstellen.
-Im Backend sollen alle Prüfungen der Registrierung/Anmeldung stattfinden und die Benutzer sollen in eine
-Datenbanktabelle eingetragen werden. Zusätzlich sollen alle Einträge/Formulare des Benutzers in der Datenbank gespeichert werden
-damit dieser nach erneutem Anmelden wieder darauf zugreifen kann.
-Zuletzt soll eine Dokumentation erstellt werden, welche dem Kunden das komplett erstellte Projekt mithilfe einer
-verständlichen Installationsanleitung erklärt.
-
-### Beispiele der Datenbank
-Hier sehen Sie die Tabelle benutzer in unserer Datenbank. Hier werden alle Daten bezüglich der Registrierung gespeichert.
-![GitHub Logo](images/db_benutzer.PNG)
-
-### Server Skripts
-Anbei sehen Sie unser Update-Skript, um den aktuellen Stand auf den Server zu pullen.
-![GitHub Logo](images/update_sh.PNG)
-
-Ebenso hier ein Einblick in die Cronjobs, welche dazu dienen Skripts zum Startup des Servers auszuführen
-![GitHub Logo](images/cronjob.PNG)
-
-### Dokumentation
-Dies ist die vollständige Dokumentation unseres Projektes.
-Das Bild verweist mit einem Klick auf die PDF Datei.
-Viel Spaß!
-
-[![GitHub Logo](images/Dokumentation.PNG)](https://www.dropbox.com/s/wa6czkhjhyxx6fq/Dokumentation_WEB_B1%20%281%29.pdf?dl=0/)
-
-
-### Lehrvideos aus Blatt 3
-#### Daniel Kalotai
-##### Thema: 
-Node.js: WebSockets, socket.io, Ajax
-
-##### Beschreibung:
-Beschreibung
-
-![GitHub Logo](images/Daniel_Lehrvideo_4.PNG)
-
-#### David Miller
-##### Thema: 
-Web-Architekturen: Architekturprinzipien, Frameworks, Selenium
-
-##### Beschreibung:
-In diesem Video wurden Architekturprinzipien mit Beispielen erklärt. Frameworks kurz behandelt und das Selenium Framework benutzt.
-
-![GitHub Logo](images/David_Lehrvideo_4.PNG)
-
-#### Florian Krembel
-##### Thema: 
-Node.js: Express.js, Grundlagen, Anwendungen, Formulardaten, Session
-
-##### Beschreibung:
-Es wird gezeigt wie man mithilfe von Express.js das Grundgerüst für einen Webserver erstellt und diesen zum Laufen bringt. Außerdem wird erklärt wie man für diesen HTTPS und
-Sessions einrichtet sowie das Auswerten von Formulardaten und das Erstellen eines Server-Gerüsts mit Hilfe von express-generator.
-
-![GitHub Logo](images/Florian_Lehrvideo_4.png)
-
-#### Vitali Lenhardt
-##### Thema: 
-Node.js: Grundlagen, Webserver, HTTP, HTTPS
-
-##### Beschreibung: 
-Einführen in die Laufzeitumgebung Node.js sowie die Erstellung eines simplen Webservers unter Verwundung von HTTP/HTTPS.
-
-![GitHub Logo](images/Vitali_Lehrvideo_4.PNG)
-
-#### Salvatore Scionti
-##### Thema: 
-Web-Architekturen: REST, publish-subscribe
-
-##### Beschreibung: 
-In diesem Video zeige ich ein kleines Beispiel zur REST-Architektur, welches leider aufgrund von Genehmigungsproblemen seitens des Hosts, den ich versuche anzuknüpfen, nicht
-komplett gezeigt werden kann. Beim Thema publish-subscribe handelt es sich um typische „Abos“. Ein Benutzer registriert sich und erhält eine Meldung im Rahmen des Dienstes,
-sobald es eine hierfür angemessene Aktualisierung gibt (wie ein Newsletter). Leider jedoch zeige ich kein eigenes Beispiel dazu, da ich es aus verschiedenen Gründen nicht
-hinbekommen habe. Dieses Video ist also etwas mager.
-
-![GitHub Logo](images/Salvo_Lehrvideo_4.PNG)
-
----
-
-[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
-
-
-
-
-
+Veranstaltung WEB,UIB
+=====================
+
+Dozent: Prof. Dr. Frank Dopatka
+-------------------------------
+
+In diesem Wintersemester 2021/2022 traf unsere Gruppe B2 auf zahlreiche
+Herausforderungen. Um euch diese mizuteilen und um zu beschreiben, wie
+diese von uns überwunden wurden, haben wir diese IExpo-Präsentation
+erstellt. 
+
+Das Team
+--------
+
+Zunächst möchten wir Ihnen unser Team B2 vorstellen. Hierbei handelt es
+sich um ein Team mit den sechs Studenten Alihan Pinarbas, Burak Bingöl,
+Enes Can Sevim, Mika Richter , Sopithan Goneswaran und Samed
+Mollamehmetoglu. Jedes Mitglied brachte seine eigenen Kompetenzen und
+Qualitäten zum Ausdruck. Dementsprechend wurden die jeweiligen Aufgaben
+zugewiesen. Da sich die Team-mitglieder schon aus vorherigen
+Gruppenarbeiten kennen, fiel es uns nicht schwer ein angenehmes
+Arbeitsklima zu erzeugen. Auf diese Weise konnte jeder sein Maximum
+rausholen, was essenziell für eine funktionierende Einheit ist. Des
+Weiteren war es für dieses Semesterprojekt von hoher Wichtigkeit, ein
+derartiges Arbeitsumfled zu schaffen.
+
+Das Semesterprojekt
+-------------------
+
+Die Aufgabe für dieses Semester sah auf den ersten Blick ziemlich simpel
+aus: eine Web-Präsenz für ein fiktives Unternehmen erstellen. Diese
+Anforderung erschien einfach, weil man selber entscheiden durfte, wie
+die Webseite gestaltet wird. Auf drei Blätter aufgeteilt mussten wir vom
+einfachen Konzept bis zur voll funktionsfähigen Webseite unsere Vision
+verwirklichen. Das Szenario war so aufgebaut, dass Prof.Dr.Dopatka
+sowohl als Berater als auch als Kunde fungierte. So wurde uns von ihm
+sowohl der Theoriestoff vermittelt, als auch Anforderungen zugewiesen.
+Falls es Unklarheiten gab mussten diese stets mit dem Kunden im
+Kundenforum besprochen werden. Jeden Freitag hatten wir die Chance bei
+einem "Kundentermin" mit Prof.Dr Dopatka unseren Fortschritt
+vorzustellen, welcher im Anschluss von Prof.Dr Dopatka bepunktet und mit
+sinnvollen Beiträgen kommentiert wurde.
+
+Das Konzept der Übungsblätter
+-----------------------------
+
+Die drei Übungsblätter wurden jeweils in verschiedenen Aufgaben
+unterteilt. Jedes Blatt bestand im ersten Teil aus der Erstellung eines
+Videos in Einzelarbeit in dem jedes Mitglied individuelle Themen
+zugeteilt wurden. Diese Video-Themen sollten stets Praxisnah und anhand
+von eigenen Beispielen bearbeitet werden, um so seinen eigenen Mehrwert
+zu präsentieren. Ausdauer, Selbstständigkeit und Kreativität waren
+hierbei fast schon eine Voraussetzung. Außerdem beinhaltete jedes
+Übungsblatt einen Teil für die Teamarbeit, in dem unsere Webseite
+weiterentwickelt werden sollte. Hierbei brauchte man für jede Aufgabe
+variierende Qualitäten und Kompetenzen, um diese zu bewältigen. Auf den
+Ablauf der Aufgaben gehen wir nun genauer ein und werden diese aus
+subjektiver Sicht beschreichen.
+
+Übungsblatt 1
+=============
+
+Im ersten Übungsblatt ging es zum einen um die Videos, welche erstellt
+werden mussten.Zunächst stand jedoch der Fokus auf die Erstellung und
+Ausarbeitung eines Konzepts für unser fiktives Unternehmen. Dabei
+sollten wir uns nicht nur überlegen, welche Produkte/Dienstleistungen
+unser Unternehmen anbieten will, sondern sollten auch ein eigenes Logo
+designen und uns eine Corporate Identity überlegen.
+
+Einzelarbeit
+------------
+
+### Aufgabe 1
+
+Aufgabe 1 bestand darin, in Einzelarbeit ein Video zu einem festgelegten
+Thema aufzunehmen. Dieses gab im Vergleich zu den späteren Videos noch
+eine eher geringe Anzahl an Punkten. Hier einige Screenshots und ggf.
+Links zu den Videos der einzelnen Gruppenmitglieder:
+
+[Erstellen einer statischen Homepage (Alihan
+Pinarbas)](https://youtu.be/Iy62G7Mo5gQ)
+
+HTML-Formulare ![Video Mika
+Richter1](https://i.gyazo.com/e830a818c7b741e10a87dc4677887843.png "Video von Mika Richter")
+
+Die HTTP-Kommunikation zwischen zwei Clients und einem Server anhand von
+UML-Diagrammen ![Video Enes Can
+Sevim1](https://i.gyazo.com/d061e04627e6b3e5d08bd0018bd59021.png "Video von Enes Can Sevim")
+
+Die Installation und die Verwendung der Tools Wireshark, Postman und
+XAMPP ![Video
+Samed1](https://i.gyazo.com/56ab43fc23fb1b88e6006a1f0e9f177b.png "Video von Samed Mollamehmetoglu")
+
+Teamarbeit
+----------
+
+### Aufgabe 2
+
+Aufgabe 2 bestand darin, das komplette Konzept für unsere Website
+auszuarbeiten. Dabei sollte eine detaillierte PDF-Datei mit allen
+Inhalten der Website und Mockups der einzelnen Pages erstellt werden.
+Natürlich musste auch ein Navigationspfad vorhanden sein, sodass man
+zwischen den verschiedenen Bereichen unserer Webseite navigieren konnte.
+Eine präzise Erläuterung bzw. eine Ausarbeitung in Textform waren
+hierbei ein Muss. Viele weitere Anforderungen sollten im Nachhinein
+ergänzt werden.
+
+Unsere Gruppe B2 hat sich für das Konzept einer Kino-Seite entschieden.
+Das markante Merkmal unserer Kinos sollten gute Bässe durch die
+entwickelte Technik sein. Daher auch der Name unserer Firma "BASS ME
+Cinemas", welcher sich aus den Namen der Mitglieder (Burak, Alihan,
+Sopithan, Samed, Mika, Enes) zusammengesetzt hat. Jeder war für einen
+bestimmten Teil des Konzepts zuständig, wobei natürlich jeder genug
+Kenntnisse besaß um den anderen zu helfen. So wollte Enes Can Sevim für
+das Design der Webseite zuständig sein. Hierzu äußerte er sich
+folgendermaßen: "Es war relativ nervenaufreibend das Design zu unserem
+Konzept zu erstellen. Kreativität war vor allem gefordert, um die
+Webseite so vielfältig wie möglich zu gestalten.". Damit unsere Webseite
+auch auf der mobilen Version anständig aussieht, designten Mika Richter
+und Samed Mollamehmedoglu die Mockups für die Mobilversion.
+
+Alihan Pinarbas war für die geschriebenen Texte und für das
+Entity-Relationship-Diagramm zuständig, in dem alle Komponenten für das
+Kino miteinbezogen wurden. Um das Konzept der Datenbank musste sich
+ebenfalss gekümmert werden. Dieser Aufgabe stellte sich der Student
+Sopithan Goneswaran. Was natürlich nicht fehlen darf, wenn man als eine
+Firma auftreten möchte ist die Datenschutzerklärung. Burak Bingöl
+kümmerte sich um diese und gestaltete zusätzlich den Navigationsbaum.
+Anschließend wurden wie schon erwähnt mehrere Anforderungen im
+Nachhinein verbessert oder ergänzt. Mit diesem Link können Sie sich
+unser Konzept ansehen:
+https://clousi.hs-mannheim.de/index.php/s/cCoFbzBd95n3tWE .
+
+Übungsblatt 2
+=============
+
+Im zweiten Übungsblatt ging es neben den Videos, welche in jedem
+Übungsblatt in Einzelarbeit zu erstellen sind, vorallem um die
+clientseitige Umsetzung unserer Website mit HTML, CSS und JavaScript.
+Dabei war es wichtig, dass die erstellten Websites exakt dem zuvor von
+Prof. Dr. Dopatka abgenommenen Konzept entsprechen.
+
+Einzelarbeit
+------------
+
+### Aufgabe 1
+
+Aufgabe 1 bestand erneut aus der Erstellung eines Lehrvideos in
+Einzelarbeit. Hierbei waren die Themen allerdings fortgeschrittener, als
+im ersten Übungsblatt und es gab eine höhere Anzahl an Punkten.
+
+[Clientseitige Formularprüfung mit JavaScript (Alihan
+Pinarbas)](https://youtu.be/kcnzwMGqeeg)
+
+[Clientseitige Formularprüfung mit JavaScript (Enes Can
+Sevim)](https://youtu.be/H8EQwJ_hBso)
+
+[Web-Server Apache Konfiguration, Logging, htaccess und PHP Modul
+vs. CGI (Shopithan Goneswaran)](https://youtu.be/jiB4Y3bT3r8)
+
+Eine responsive Website mit Menüführung ![Video Mika
+Richter2](https://i.gyazo.com/4c6a6389c5284551fc126f85dea4b234.png "Video von Mika Richter")
+
+Verzweigungen, Schleifen, Arrays und Funktionen in JavaScript ![Video
+Samed2](https://i.gyazo.com/0ff222ebdbff0d717516bb6e1cec5843.png "Video von Samed Mollamehmetoglu")
+
+JavaScript Eventhandler ![Video
+Burak](https://i.gyazo.com/12826a349b313f32efe4adec4b0ab0a6.png "Video von Burak Bingöl")
+
+Teamarbeit
+----------
+
+### Aufgabe 2
+
+Wie bereits erwähnt ging es bei der Teamarbeit in diesem Übungsblatt um
+die clientseitige Entwicklung unserer Website. Um sich mit HTML und CSS
+vertraut zu machen, wurde zunächst jedem Teammitglied ein Teil der
+Website zugewiesen, welchen er erstellen sollte. Dabei übernahm Burak
+Bingöl die Startseite, Alihan Pinarbas die Filmliste, Sopithan
+Goneswaran die "Sitzplatzreservierung", Mika Richter "Über Uns", Enes
+Can Sevim den "Datenschutz" und Samed Mollamehmedoglu das "Impressum".
+Nach der individuellen Erstellung dieser einzelnen Seiten hatte wir
+allerdings große Probleme diese nun mit einem identischen Design und
+einer einzigen CSS-Datei zu vereinheitlichen. Eine weitere große
+Herausforderung stellte die Responsiveness unserer Website dar. Dabei
+geht es darum, dass die Website sich flexibel an verschiedene
+Bildschirm- bzw. Fenstergrößen anpasst. Dafür trafen wir uns mehrfach
+gemeinsam als Gruppe und es dauerte mehrere Wochen bis wir diese Ziele
+erreicht hatten. Außerdem mussten wir im Laufe des 2. Übungsblatts
+mehrere Änderungsanträge stellen, um einige Elemente unserer Website von
+dem Konzept abweichen zu lassen. Diese wurden von Prof. Dr. Dopatka
+genehmigt. Nachdem wir gemeinsam die Responsiveness der Website und das
+einheitliche Design erreicht haben ging es vor allem noch um die
+Einbindung von JavaScript. Dies verwendeten wir zunächst für eine
+Diashow auf unserer Startseite, welche zwischen verschiedenen Filmcovern
+verwechselte. Weiterhin verwendeten wir JavaScript für die Validierung
+unserer HTML-Formulare. Dabei ging es darum fehlerhafte Eingaben
+abzufangen. Da es beim zweiten Übungsblatt nun um die konkrete
+Erstellung der Website ging, war es für uns eine große Umstellung und
+wir taten uns dementsprechend zunächst schwerer. Am Ende haben wir
+allerding die Herausforderungen gut als Team gemeistert.
+
+![Webiste](https://i.gyazo.com/104208c31a9f78f1f838ff8b15b92252.png "Unsere Website")
+
+Übungsblatt 3
+=============
+
+Da es im vorherigen Übungsblatt um die clientseitige Entwicklung ging,
+stand nun der Fokus im letzten Übungsblatt auf der serverseitigen
+Umsetzung unserer Web-Präsenz. Den Studenten selbst war es hierbei
+überlassen, eine der beiden serverseitigen Skriptsprachen "PHP" und
+Node.js bzw. Express.js zu benutzen. Das Ziel war es am Ende die Filme
+dynamisch aus der Datenbank zu beziehen und Benutzerbuchungen in dieser
+abzuspeichern.
+
+Einzelarbeit
+------------
+
+### Aufgabe 1
+
+Auch dieses Mal bestand die erste Aufgabe darin, ein Lehrvideo
+aufzunehmen. Jeder hatte ein eigenes Thema, welches intensiv vorbereitet
+und präsentiert werden musste. Natürlich wie immer in Form eines
+ungeschnittenen Videos inklusive Zeitstempel. Die Themen variierten
+zwar, trotz dessen ging es um die serverseitige Sprachen PHP und
+Node.js/Excpress.js. Das hat auch natürlich geholfen, die Aufgabe zwei
+dieses Übungsblattes zu bearbeiten.
+
+Selenium ![Video Mika
+Richter3](https://i.gyazo.com/ee1963e38999075d055f4390920d0b50.png "Video von Mika Richter")
+
+Express.js: Grundlagen, Anwendungen, Formulardaten und Sessions ![Video
+Samed3](https://i.gyazo.com/1ee381095d71ea593b4d03cc3c1b9ee6.jpg "Video von Samed Mollamehmetoglu")
+
+PHP: Datenbankzugriff, Exceptions und Funktionslisten ![Video Enes Can
+Sevim3](https://i.gyazo.com/a007c26883b312d9e395b4f8e0265c1a.png "Video von Enes Can Sevim")
+
+PHP Grundlagen, Arrays, Verzeigungen, Schleifen, Funktionen ![Alihan
+Pinarbas3](https://i.gyazo.com/5e17087fb2fd354a42cc4a48ec480f43.jpg "Video von Alihan Pinarbas")
+
+Node.js: WebSockets, socket.io und Ajax ![Shoptihan
+Goneswaran](https://i.gyazo.com/2bd0e6e373bb255e8265cf54b39ea0db.png "Video von Shopithan")
+
+Teamarbeit
+----------
+
+### Aufgabe 2
+
+In Aufgabe 2 a) ging es zunächst darum eine Virtuelle Maschine, also ein
+virtuelles, abgeschottetes Computersystem, via VirtualBox aufzusetzen,
+auf welcher wir den kompletten Content unserer Website bereitstellen
+mussten. Die VM sollte weiterhin dem Benutzer per DHCP eine IP-Adresse
+zuweisen, mit der man die Website nun lokal aufrufen konnte. Aufgrund
+unterschiedlicher Betriebssysteme und Netzwerkeinstellungen der
+verschiedenen Teammitglieder war es zunächst eine große Herausforderung,
+die VM bei allen erfolgreich zum laufen zu bringen. Bei Aufgabe 2 b)
+erstellten wir nun eine Datenbank via MySQL mit den Tabellen, welche wir
+in unserem Konzept bereits definiert hatten. Diese füllten wir
+anschließend mit Beispieldatensätzen.
+
+![Datenbank](https://i.gyazo.com/a2fd537867b893801bea7d70465b7e9c.png "Unsere Datenbank")
+
+Wichtig war es hierbei die verschiedenen Kardinalitäten korrekt zu
+integrieren.
+
+Aufgabe 2 c) des 3. Übungsblatts war sicherlich die umfangreichste
+Aufgabe der Studienleistung. Hierbei mussten wir die komplette Logik
+unserer Website unter der Verwendung von Express.js erstellen.
+Benutzerbuchungen sollten nun in der Datenbank abgespeichert werde und
+alle Produkte, also unsere Filme, sollten dynamisch aus der Datenbank
+geladen werden.
+
+Fazit
+=====
+
+Zusammenfassend kann man sagen, dass die Studienleistung in WEB extrem
+umfangreich und komplex war, und wir oft an unsere Grenzen gestoßen
+sind. Dennoch hat es Spaß gemacht, von Grund auf eine eigene Website zu
+entwickeln und den Fortschritt immer wieder mitzuerleben. Die
+Kombination von Lehrvideos in Einzelarbeit und der Website als
+Teamarbeit hat sich sehr positiv auf unseren Lernerfolg ausgewirkt, da
+so jeder aktiv werden und sich in die Themen intensiv einarbeiten
+musste. Rückblickend war es besonders wichtig eine klare Teamstruktur
+und Aufgabenverteilung zu haben, so war es immer klar, wer was zutun
+hat. Insgesamt haben wir unser Konzept unserer Meinung nach gut umsetzen
+können und sind mit dem Endprodukt sehr zufrieden.
