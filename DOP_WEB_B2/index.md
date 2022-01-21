@@ -131,7 +131,7 @@ kümmerte sich um diese und gestaltete zusätzlich den Navigationsbaum.
 Anschließend wurden wie schon erwähnt mehrere Anforderungen im
 Nachhinein verbessert oder ergänzt. Mit diesem Link können Sie sich
 unser Konzept ansehen:
-https://clousi.hs-mannheim.de/index.php/s/cCoFbzBd95n3tWE(https://clousi.hs-mannheim.de/index.php/s/cCoFbzBd95n3tWE){:target="_blank" rel="noopener"}.
+[https://clousi.hs-mannheim.de/index.php/s/cCoFbzBd95n3tWE](https://clousi.hs-mannheim.de/index.php/s/cCoFbzBd95n3tWE){:target="_blank" rel="noopener"}.
 
 Übungsblatt 2
 =============
