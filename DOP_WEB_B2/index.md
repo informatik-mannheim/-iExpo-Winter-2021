@@ -1,6 +1,8 @@
 Veranstaltung WEB,UIB
 =====================
 
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
+
 Dozent: Prof. Dr. Frank Dopatka
 -------------------------------
 
@@ -200,7 +202,7 @@ Erstellung der Website ging, war es für uns eine große Umstellung und
 wir taten uns dementsprechend zunächst schwerer. Am Ende haben wir
 allerding die Herausforderungen gut als Team gemeistert.
 
-![Webiste](https://i.gyazo.com/104208c31a9f78f1f838ff8b15b92252.png "Unsere Website")
+![Website](https://i.gyazo.com/104208c31a9f78f1f838ff8b15b92252.png "Unsere Website")
 
 Übungsblatt 3
 =============
@@ -284,3 +286,5 @@ musste. Rückblickend war es besonders wichtig eine klare Teamstruktur
 und Aufgabenverteilung zu haben, so war es immer klar, wer was zutun
 hat. Insgesamt haben wir unser Konzept unserer Meinung nach gut umsetzen
 können und sind mit dem Endprodukt sehr zufrieden.
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
