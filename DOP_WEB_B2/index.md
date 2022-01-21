@@ -282,7 +282,7 @@ entwickeln und den Fortschritt immer wieder mitzuerleben. Die
 Kombination von Lehrvideos in Einzelarbeit und der Website als
 Teamarbeit hat sich sehr positiv auf unseren Lernerfolg ausgewirkt, da
 so jeder aktiv werden und sich in die Themen intensiv einarbeiten
-musste. Rückblickend war es besonders wichtig eine klare Teamstruktur
+musste. Rückblickend war es besonders wichtig, eine klare Teamstruktur
 und Aufgabenverteilung zu haben, so war es immer klar, wer was zutun
 hat. Insgesamt haben wir unser Konzept unserer Meinung nach gut umsetzen
 können und sind mit dem Endprodukt sehr zufrieden.
