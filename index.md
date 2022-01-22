@@ -61,4 +61,5 @@ Hier einige Feedbacks von Studierenden:
 * [Magnus Verclas](DOP_TRA_verclas/)
 * [Ein Studierender](DOP_TRA_01/)
 * [Ein Studierender](DOP_TRA_02/)
+* [Ein Studierender](DOP_TRA_03/)
 
