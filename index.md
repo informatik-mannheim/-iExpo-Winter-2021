@@ -57,3 +57,4 @@ Alle [Lernmaterialien sind online verfügbar](https://www.youtube.com/playlist?l
 Hier einige Feedbacks von Studierenden:
 
 * [Erik Reiter](DOP_TRA_reiter/)
+* [Magnus Verclas](DOP_TRA_verclas/)
