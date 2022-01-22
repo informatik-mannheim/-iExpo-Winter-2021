@@ -29,7 +29,7 @@ Zum Ende des Semesters befanden sich folgende Positionen in meinem Portfolio:
 ![enter image description here](https://i.imgur.com/8ilkXN4.png)
 
 ### Performance
-Bis zu dem Zeitpunkt wo ich Bitcoin und ETH gekauft ( 09.11.) hatte, lief das Portfolio relativ gut. Danach ging es leider zusammen mit den Crypto Kursen auf eine Talfahrt, wie ihr dem Diagramm unten entnehmen könnt.
+Bis zu dem Zeitpunkt wo ich Bitcoin und ETH gekauft (09.11.) hatte, lief das Portfolio relativ gut. Danach ging es leider zusammen mit den Crypto Kursen auf eine Talfahrt, wie ihr dem Diagramm unten entnehmen könnt.
 ![enter image description here](https://i.imgur.com/jqcrc9l.png)
 
 ## Lessons Learned
@@ -48,7 +48,7 @@ Außerdem habe ich einige KPI's analysiert (Alpha, Beta, R², Capture Up, Captur
 Auf die Frage, ob man sich überhaupt mit Aktiv gemanagten Fonds auseinandersetzten sollte findet ihr am Ende des Videos ebenfalls einen kleinen Vergleich meinerseits. 
 Zum Video mit allen Details gelangt ihr, wenn ihr auf das Bild klickt.
 
-[![Investmentfonds erklärt ](https://img.youtube.com/vi/nQcVFM2I-mc/1.jpg)](https://www.youtube.com/watch?v=nQcVFM2I-mc)
+[![Investmentfonds erklärt ](https://img.youtube.com/vi/nQcVFM2I-mc/1.jpg)](https://www.youtube.com/watch?v=nQcVFM2I-mc){:target="_blank" rel="noopener"}
 
 # Wissenschaftliche Ausarbeitung zum Thema Cum-Ex Geschäfte in Deutschland mit Hauptaugenmerk auf die Warburgbank
 Für den dritten Teil der Prüfungsleistung durfte ich eine wissenschaftliche Ausarbeitung zum Thema Cum-Ex Geschäfte und der Warburgbank schreiben. 
@@ -56,4 +56,6 @@ Besonders spannend, aber auch herausfordernd, war dabei die Aktualität des Them
 Für den Teil mit der Warburg Bank beschränkte sich die vorhandene Literatur jedoch auf Zeitungen und besonders den Erkenntnissen von "Correctiv", einer Journalistenverbindung die den Cum-Ex Skandal in Deutschland mit den *Cum-Ex-Files* aufgedeckt hat. 
 Besonders spannend fand ich dabei die Art und Weise wie Cum-Ex / Cum-Cum funktioniert und die Tatsache, dass die deutschen Steuerzahler sich *so* lange haben bestehlen lassen.
 Ich entschied mich die Ausarbeitung in LaTeX zu verfassen und nutzte dafür den Overleaf Editor.
-Wer Interesse an den Details hat und die Ausarbeitung lesen möchte, kann sich das Projekt [hier](https://www.overleaf.com/read/rymbkbtvnbhq) ansehen.
+Wer Interesse an den Details hat und die Ausarbeitung lesen möchte, kann sich das Projekt [hier](https://www.overleaf.com/read/rymbkbtvnbhq){:target="_blank" rel="noopener"} ansehen.
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
