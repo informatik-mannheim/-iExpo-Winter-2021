@@ -76,3 +76,5 @@ Dafür eignet sich meiner Meinung nach die Ausarbeitung besser, um tiefer in die
 
 ## Fazit
 Für jeden der sich schon immer mal am Finanzmarkt probieren, oder darüber Wissen sammeln wollte, eignet sich das Fach technsiches Trading sehr gut. Durch die Erstellung der Videos eignet man sich außerdem noch Skills an, wie Videos zu erstellen und zu schneiden. Was mir sehr gut gefallen hat, ist dass man sich durch die Auswahl des Themas der Ausarbeitung in Themen reinarbeiten kann, für die man persönliches Interesse birgt.
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
