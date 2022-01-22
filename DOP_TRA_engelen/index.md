@@ -56,7 +56,7 @@ Bei der T-Aktie handelt es sich um Anteile der Gesellschaft „Deutsche Telekom 
 
 Diese Erfahrung prägte zwei Generationen und ist noch heute, nach über 20 Jahren, bei vielen Deutschen ein Grund die Finger weg vom Aktienhandel zu halten. 
 
-[![Link zum Video Trauma der T-Aktie](T-Aktie-Titelbild.jpg)](https://www.youtube.com/watch?v=IM1drQbw_10){:target="_blank" rel="noopener"}
+[![Link zum Video Trauma der T-Aktie](T-Aktie-Titelbild.jpeg)](https://www.youtube.com/watch?v=IM1drQbw_10){:target="_blank" rel="noopener"}
 
 ***
 
