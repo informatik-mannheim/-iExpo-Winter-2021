@@ -204,12 +204,14 @@ Ab Arbeitsblatt 3 war eine vollständig funktionsfähige GUI gefordert welche mi
 
 #### **Das Startmenü**
 
-![](Startmenu.PNG) 
+![](Startmenu.PNG)
+
 Sobald das Programm gestartet wird befindet sich der Nutzer im Startmenü, in welchem er entweder bis zu vier Spieler mit beliebigen Namen, oder Computer-Gegner hinzufügen kann. Außerdem kann der Nutzer von diesem Menü aus auf bereits abgespeicherte Spielstände zugreifen und diese Laden. 
 
 #### **Das Spielmenü**
 
 ![](Spielmenu.PNG)
+
 Nach Auswahl der Spieler kann der Nutzer das Spiel starten und befindet sich nun im Hauptfenster des Spiels. Hier befindet sich das Spielmenu (links), die Spielerhand (unten), das Spielfeld und die Menüleiste. Von diesem Fenster aus kann der Nutzer das Spiel spielen und auf jegliche verfügbaren Funktionen wie Speichern, Laden, Einstellungen etc. zugreifen. Es gelten die gleichen Regeln wie im Standard Rummikub Spiel und jeder Zug wird automatisch überprüft. 
 
 ![](Ablegen.PNG) 
