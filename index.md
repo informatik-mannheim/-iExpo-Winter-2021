@@ -59,4 +59,5 @@ Hier einige Feedbacks von Studierenden:
 * [Felix Engelen](DOP_TRA_engelen/)
 * [Erik Reiter](DOP_TRA_reiter/)
 * [Magnus Verclas](DOP_TRA_verclas/)
+* [Ein Studierender](DOP_TRA_01/)
 
