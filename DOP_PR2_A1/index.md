@@ -121,7 +121,7 @@ hat. Dieses Objekt wird dann in die () geschrieben.
 ![](Jonas-Video3-Philosophenproblem.PNG)
 Zu erklären war das Philosophenproblem anhand eines graphischen Beispiels, als auch dessen 
 Lösung in Java. Beim Philosophenproblem dreht es sich hauptsächlich um Multithreading bzw. den 
-Deadlock, welcher auftreten kann, wenn alle Threads darauf warten das benötigte Ressourcen frei werden, diese jedoch bereits reserviert sind. Hier im Screenshot zu sehen ist.
+Deadlock, welcher auftreten kann, wenn alle Threads darauf warten das benötigte Ressourcen frei werden, diese jedoch bereits reserviert sind. 
 
 ### **Das Problem des Handlungsreisenden (TSP)**
 ![](TSP0.JPG)
