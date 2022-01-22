@@ -38,3 +38,22 @@ Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für e
 
 #### Studiengang UIB bei Prof. Dr. Frank Dopatka
 
+Lernziele dieses Wahlfachs sind es,
+* gängige Definitionen zum Börsenumfeld zu nennen und zu beschreiben.
+* typische Börsenprodukte zu handhaben und zu handeln.
+* systematisch und diszipliniert zu Traden anhand eines Trading Tagebuchs und anhand eines Trading Plans.
+* eine grundlegende fundamentale und technische Analyse durchzuführen.
+* Trends, typische Formationen und Indikatoren auf Chartbilder anzuwenden.
+
+Die Veranstaltung ist im UIB-Katalog angesiedelt. Studierende anderer Studiengänge haben das Wahlfach aber auch schon nach Antrag bei der jeweiligen Studiengangsleitung besuchen können.
+
+Alle [Lernmaterialien sind online verfügbar](https://www.youtube.com/playlist?list=PL35XGjy0AQArzmcKv3F4Ctp1TR9Tdtl6o){:target="_blank" rel="noopener"}. Die Benotung setzt sich aus einigen Komponenten zusammen, beim Erreichen von 100% wird eine 1.0 garantiert:
+
+* 40% Erfolg beim eigenen Wikifolio.
+* 40% Lehrvideo zu einem ausgewählten Thema aus dem Foliensatz, das zu indizieren und in einer [YouTube-Playlist](https://www.youtube.com/playlist?list=PL35XGjy0AQArx49KLhrNo5FAJ9CiutYoL){:target="_blank" rel="noopener"} zu veröffentlichen ist.
+* 40% Video oder schriftliche Ausarbeitung zu einem ausgewählten Thema, gern mit aktuellem Bezug. Das Video ist zu indizieren und in einer [YouTube-Playlist](https://www.youtube.com/playlist?list=PL35XGjy0AQAr_kL3ZgQPhYi4WMGMyCz9M){:target="_blank" rel="noopener"} zu veröffentlichen ist.
+* 10% als Zusatzpunkte durch die Teilnahme an der iExpo.
+
+Hier einige Feedbacks von Studierenden:
+
+* [Erik Reiter](DOP_TRA_reiter/)
