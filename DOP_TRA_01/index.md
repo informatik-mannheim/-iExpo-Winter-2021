@@ -24,7 +24,7 @@ Das Beispiel basiert dabei auf 30 verschiedene Tradingergebnisse. Der Trader hat
 
 Wer Interesse hat, kann sich das gerne unter nachfolgendem Link anschauen:
 
-[Profitfaktor und Co. - Handelsstrategien auf Gewinn und Verlust untersuchen](https://www.google.com)
+[![Profitfaktor und Co. - Handelsstrategien auf Gewinn und Verlust untersuchen](https://img.youtube.com/vi/kvfsw-_sqgo/1.jpg)](https://www.youtube.com/watch?v=kvfsw-_sqgo){:target="_blank" rel="noopener"}
 
 
 ## Lehrvideo II - Einfluss der Inflation auf den Aktienmarkt und wie man sich schützt
