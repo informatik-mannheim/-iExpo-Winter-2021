@@ -1,4 +1,10 @@
-# Technisches Trading 
+Das Wahlpflichtmodul Technisches Trading
+========================================
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
+
+Dozent: Prof. Dr. Frank Dopatka
+-------------------------------
 
 ### Ziel- und Aufgabenstellung
 
