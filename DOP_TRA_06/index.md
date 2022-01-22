@@ -14,12 +14,9 @@ Im Wikifolio kann man mit Aktien, ETFs, Fonds, Anlagezertifikaten und Hebelprodu
 
 Zum Start hatte ich mir noch keine allzu großen Gedanken gemacht, welche Positionen ich handeln möchte. Es war mir nur klar, dass ich mit Großkonzernen und gegebenenfalls auch Krypto handeln wollte, so auch der Name meines Wikifolios. Also wurde sich flächendeckend und mit 100% eingedeckt, z.B. Amazon, Tesla, Roche, sowie Ethereum ETFs. Der Anfang verlief gut, die meisten Aktienkurse stiegen, nicht außergewöhnliches, aber zufriedenstellend. Auch bei den fallenden Kursen habe ich mir noch keine allzu großen Gedanken gemacht. So habe ich mich zwar über den Markt durchgehend informiert, aber keinen Anlass gesehen, um bis zur ersten Indexmessung etwas zu ändern. Dort war dann ein klarer Spitzenreiter zu erkennen, der komplett in Ethereum investiert war. Da ich an sich ja auch Ethereum hatte, welches nach Tesla am besten lief, entschloss ich mich dazu meine Positionen mit Verlust zu verkaufen, und das Geld in Ethereum zu stecken. Am Anfang verlief auch das recht gut; die anderen Kurse waren auch alle positiv, somit wollte ich gar nicht zu viel ändern, was ich auch nicht tat. In den folgenden Tagen und Wochen sank Ethereum dann, der Spitzenreiter hatte es sich auf MSCI-World gemütlich gemacht und ich stand vor der Entscheidung, wie bei den anderen Kursen, beim Sinken zu verkaufen, oder doch drin zu bleiben. Da meine erste Ethereum-Position aber noch deutlich im Plus, und auch das Nachgekaufte noch nicht wirklich Verlust gemacht hatte entschied ich mich nicht zu verkaufen. Ich recherchierte, die Krypto-Blase sprach natürlich nur von einem Dip und ich glaubte ihr. Das Trauerspiel ging zu lange, die anderen Positionen von mir waren allesamt in Ordnung, dass ich den Fehler machte und mich eigentlich nur noch auf Ethereum fokussierte, aber der gehoffte Anstieg kam nicht mehr. Ich realisierte einen deutlichen Verlust und hatte mich mit dem Großteil meines Kapitals nicht mal mehr beschäftigt.
 
-![alt text](https://github.com/NicoJehle/iExpo/blob/main/Wikifolio.png "Wikifolio")
-
-
+![alt text](Wikifolio.png)
 
 Wie vermutlich zu erkennen ist, bin ich nicht zufrieden, mit meiner Leistung im Wikifolio, aber konnte definitiv einige wertvolle Lektionen mitnehmen, die ich hoffentlich anwende, wenn es um es echtes Geld geht.
-
 
 ## Video
 
@@ -28,15 +25,13 @@ Anhand der vor dem Semester bereitgestellten Folien ließ sich jeder Studierende
 Bei mir war es das Thema "Short handeln anhand von Praxis-Beispielen".
 Short handeln bezeichnet das Handeln mit Positionen, bei denen man denkt, dass sie in Zukunft sinken werden.  Im Video behalten ich größtenteils das "Leerverkaufen", welches aus zwei Aspekten besteht. Der Erste ist der Leerverkauf, dort leiht man sich Aktien z.B. bei einem Broker, und verkauft diese zum aktuellen Marktpreis. Der zweite Aspekt ist die Eindeckung, man kauft zu einem beliebigen Zeitpunkt, meistens jedoch spätestens zum vorher vereinbarten Zeitpunkt X am Markt zum dann aktuellen Marktpreis und gibt die geliehenen Aktien wieder zurück. Wenn die Aktien zwischen Leerverkauf und Eindeckung gefallen ist macht man somit also Gewinn.
 
-![alt text](https://github.com/NicoJehle/iExpo/blob/main/Leerverkauf%20(2).png "Leerverkauf")
-
-
+![alt text](Leerverkauf.png)
 
 Weiterhin vergleiche ich noch long und short handeln, und die jeweiligen Ausgänge bei steigenden oder fallenden Kursen.
 
 Am interessantesten fand ich den Punkt des Short Squeezes, welcher sich ähnlich wie ein Crash verhält, bloß, dass die Kurse dann ansteigen.
 
-![alt text](https://github.com/NicoJehle/iExpo/blob/main/ShortSqueeze.png "Short Squeeze")
+![alt text](ShortSqueeze.png)
 
 Als Abschluss behandelte ich noch Short ETFs, welche das Short-Handeln ohne Leerverkauf ermöglichen.
 
@@ -55,13 +50,13 @@ Der Markt dort wird lediglich von den Usern benutzt, diese bieten Spieler an und
 
 Das Live-Trading funktioniert, da manche Spieler Karten bekommen, die anhand der Leistung im echten Leben besser werden können. Wenn Spieler XY nun ein gutes Spiel hat, man dies recht früh mitbekommt, kann man diesen Spieler nun noch recht billig einkaufen, und kurze Zeit später, meistens innerhalb einer Stunde, teuer verkaufen. Hier handelt man meistens aufgrund des Preises nur mit einer Karte.
 
-![alt text](https://github.com/NicoJehle/iExpo/blob/main/Live-Trading.png "Live")
+![alt text](Live-Trading.png)
 
 #### SBC-Futter
 
 Mit SBC-Futter handelt man eher langfristig, SBCs sind Möglichkeiten im Spiel Karten einzutauschen, um verschiedene Sachen, bspw. Spieler zu bekommen. Diese SBCs müssen gewisse Bedingungen erfüllen, meistens müssen die Spieler, die man abgibt, ein gewisses Rating, meistens 83er oder höher, erfüllen. Wenn es keine relevante SBC gibt, sind die Spieler, die das Rating zwar erfüllen aber nicht gespielt werden, recht billig zu erwerben. Diese hält man dann so lange bis eine relevante SBC erscheint, und verkauft sie mit Profit. Da die Spieler generell trotzdem sehr billig im Vergleich zum allgemeinen Budget sind, handelt man hier mit normalerweise über 100 Karten.
 
-![alt text](https://github.com/NicoJehle/iExpo/blob/main/SBC.png "SBC")
+![alt text](SBC.png)
 
 Das Erstellen des Videos hat Spaß gemacht, da ich mein Hobby mit der Hochschule verbinden konnte, allerdings habe ich gemerkt, dass der Umfang des Marktes und die dann doch recht beschränkten und simplen Möglichkeiten des Tradings dort, nicht ganz die Erwartungen der Ausarbeitung erfüllt haben.
 
