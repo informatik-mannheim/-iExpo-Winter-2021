@@ -1,7 +1,10 @@
-# Das Wahlpflichtmodul Technisches Trading
-# Dozent: Prof. Dr. Frank Dopatka
- 
+Das Wahlpflichtmodul Technisches Trading
+========================================
+
 [zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
+
+Dozent: Prof. Dr. Frank Dopatka
+-------------------------------
 
 ## Wie lief der Kurs Technisches Trading ab?
 Die Prüfungsleistung in TRA bestand aus drei Komponenten. Die Betreuung eines Wikifolios, die Erstellung eines Lehrvideos und die Erstellung einer Ausarbeitung.

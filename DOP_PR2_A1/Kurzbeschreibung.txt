@@ -1,0 +1,10 @@
+Fach: Programmieren 2
+Projekt: Rummikub
+Team: A1
+
+Studierende:
+Jonas Fuegen 2025856
+Julian Kumarek 2023211
+Marvin Wieduwilt 2025419
+Victor Cölsch 2021488
+Serhat Göl 2110523

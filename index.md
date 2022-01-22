@@ -22,6 +22,8 @@ In dem Team-Teil sollte diesmal das Semesterspiel Rummikub implementiert werden.
 
 Zusätzlich dazu sollten die Studierenden einzeln Videos abgeben, in denen [konkrete Beispiele](https://www.youtube.com/playlist?list=PL35XGjy0AQAqO6LcxLlV3cumtFkb9PmS0){:target="_blank" rel="noopener"} zu [vorgegebenen Vorlesungsteilen](https://www.youtube.com/playlist?list=PL35XGjy0AQAr5JtCR2mFJ4My8iicuNH7W){:target="_blank" rel="noopener"} live zu coden und zu erklären waren.
 
+* [Team A-1](DOP_PR2_A1/)
+
 ### 3. Semester: Veranstaltung webbasierte Systeme
 
 #### Studiengänge UIB, IMB bei Prof. Dr. Frank Dopatka

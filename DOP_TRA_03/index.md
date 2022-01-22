@@ -1,7 +1,10 @@
-# Das Wahlpflichtmodul Technisches Trading
-# Dozent: Prof. Dr. Frank Dopatka
- 
+Das Wahlpflichtmodul Technisches Trading
+========================================
+
 [zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
+
+Dozent: Prof. Dr. Frank Dopatka
+-------------------------------
 
 # Das Lehrvideo: Kerzencharts und deren Interpretation anhand praktischer Beispiele
 Was ist ein Kerzenchart und wie funktioniert so was? Diese Frage habe ich mich tatsächlich schon vorher oft gestellt. Man sieht sie ständig in Videos, in denen Leute, von denen man denkt, dass sie absolute Experten sind, irgendwelche Muster in ein Diagramm malen und erklären, warum man jetzt genau diese Aktie kaufen soll. Nicht zuletzt aus diesem Eigeninteresse heraus habe ich mir die Kerzencharts zum Thema meines Lehrvideos gemacht.
