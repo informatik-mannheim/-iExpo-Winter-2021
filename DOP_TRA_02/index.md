@@ -1,5 +1,7 @@
-# Technisches Trading WS 21/22
-### <b>Dozent: Prof. Dr. Frank Dopatka</b>
+# Das Wahlpflichtmodul Technisches Trading
+# Dozent: Prof. Dr. Frank Dopatka
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
 
 Der folgende Beitrag wurde erstellt, um einen tieferen Einblick hinter die Kulissen der Vorlesung Technsiches Trading (TRA) im Wintersemester 2021/2022 zu gewähren.
 Es wird beschrieben, wie der Ablauf des Fachs war, was die erledigten Aufgaben waren und schließlich ein persönlicher Eindruck von mir darüber.
@@ -14,7 +16,7 @@ Die Foliensätze der Vorlesung sind in verschiedene Themengebiete gegliedert:
 
 |Nr.| Thema      | Beschreibung          |
 |---:| ------------- |:-------------:|
-|1| Grundbegriffe      | Wissensbasis für das Fach Trading herstellen |
+|1| Grundbegriffe      |Wissensbasis für das Fach Trading herstellen |
 |2| Risikomanagement     | Für einen jeden erfolgreichen Investor oder Trader ein Muss |
 |3| Börsenprodukte | Übersicht über die zu erwerbenden Produkte an der Börse   |
 |4| Analysemodelle | Anhand von Strategien und Modellen der fundamentalen oder technischen Analyse, mögliche Vorhersagen über die Entwicklung des Marktes herausfinden |
