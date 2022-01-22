@@ -40,7 +40,7 @@ Auf dieser Basis habe ich zwei große Börsenwerte analysiert. Wie haben sich di
 Aber nicht nur der Vergleich mit historischen Ereignissen war von Interesse. Auch habe ich Sekundärliteratur zu 9/11 und den entsprechenden Auswirkungen und Rahmenbedingungen analysiert. Mit diesem Schritt wurden die Unterschiede und Gemeinsamkeiten konkretisiert.
 
  ### Fazit
-Am Ende habe ich mehrere Thesen aufgestellt, die erklären, inwiefern ein geschlossener Handelsplatz als Fallbeispiel herangezogen werden kann, inwiefern das nicht immer funktioniert und warum. Darüber hinaus habe ich meine Gedanken zu weiteren Forschungsfragen, die man aus diesen Erkenntnissen heraus weiter behandeln könnte, verfasst. Die komplette Ausarbeitung finden Sie [hier](https://mega.nz/file/n14kGITC#LTnr-RsVI-xtcANzoiS0Shv3XiPNE88aGO_SrL8Ri5A).
+Am Ende habe ich mehrere Thesen aufgestellt, die erklären, inwiefern ein geschlossener Handelsplatz als Fallbeispiel herangezogen werden kann, inwiefern das nicht immer funktioniert und warum. Darüber hinaus habe ich meine Gedanken zu weiteren Forschungsfragen, die man aus diesen Erkenntnissen heraus weiter behandeln könnte, verfasst. Die komplette Ausarbeitung finden Sie [hier](https://mega.nz/file/n14kGITC#LTnr-RsVI-xtcANzoiS0Shv3XiPNE88aGO_SrL8Ri5A){:target="_blank" rel="noopener"}.
 
 # Das Wikifolio: Die (virtuelle) Million?
 
@@ -50,7 +50,7 @@ Und damit kam auch die erste Herausforderung: *Wie lege ich das Geld an?* Wie so
 
 > Der Großteil des Portfolios soll sicher angelegt werden. Ziel ist hier zwischen 60 % bis 70  %. Das restliche Kapital soll mit höherem Risiko angelegt werden, um die Rendite zu steigern. Durch einen Restbestand an freiem Kapital soll garantiert werden, dass auf aktuelle Trends reagiert werden kann, ohne Positionen liquidieren zu müssen.
 
-Aber wie setzt man die Idee um? Ich werde an dieser Stelle nicht näher auf die konkreten Werte eingehen. Soviel kann aber gesagt werden: Ein Teil der Werte, auf die ich gesetzt habe, waren Aktien, die ich auch privat halte, andere waren Ideen aus diversen Foren wie [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/), aber auch seriösere Outlets wie den gängigen Zeitschriften zu diesem Thema. 
+Aber wie setzt man die Idee um? Ich werde an dieser Stelle nicht näher auf die konkreten Werte eingehen. Soviel kann aber gesagt werden: Ein Teil der Werte, auf die ich gesetzt habe, waren Aktien, die ich auch privat halte, andere waren Ideen aus diversen Foren wie [r/wallreetbets](https://www.reddit.com/r/wallstreetbets/){:target="_blank" rel="noopener"}, aber auch seriösere Outlets wie den gängigen Zeitschriften zu diesem Thema. 
 
 Um das Ergebnis zusammenzufassen: Nein, ich fahre jetzt keinen Ferrari. Aber warum? Nicht nur weil das Wikifolio aus virtuellem Geld besteht. Schauen wir uns mal den Verlauf meines Wikifolios an:
 
