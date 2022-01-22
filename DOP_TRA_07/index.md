@@ -38,3 +38,5 @@ Im Lehrvideo bestand die Aufgabe darin ein bereits behandeltes Thema der Vorlesu
 # Schriftliche Ausarbeitung zum Thema Algorithmisches Trading und Robo-Advisor
 
 In der schriftlichen Ausarbeitung sollten wir ein noch eher unberührtes Thema, welches wir uns im Vorfeld unter Absprache mit dem Professor selbst aussuchen durften, anhand wissenschaftlich fundierten Quellen erklären. Mein Thema war Algorithmisches Trading und Robo-Advisor, ich erklärte in meiner Arbeit zunächst beide Begriffe und ging näher auf die funktionsweise ein, besonders im Hinblick auf das algorithmische Trading. Beim Robo-Advisor-Part war es mir wichtig die Vor-, sowie Nachteile gegenüber zu stellen um eine Aussage über deren Nutzen treffen zu können, sowie eine Aussage über die Entwicklung beider Technologien in der Zukunft. 
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
