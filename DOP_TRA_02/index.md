@@ -15,8 +15,8 @@ Die Foliensätze der Vorlesung sind in verschiedene Themengebiete gegliedert:
 
 
 |Nr.| Thema      | Beschreibung          |
-|---:| ------------- |:-------------:|
-|1| Grundbegriffe      |Wissensbasis für das Fach Trading herstellen |
+|---:| ------------- | ------------- |
+|1| Grundbegriffe      | Wissensbasis für das Fach Trading herstellen |
 |2| Risikomanagement     | Für einen jeden erfolgreichen Investor oder Trader ein Muss |
 |3| Börsenprodukte | Übersicht über die zu erwerbenden Produkte an der Börse   |
 |4| Analysemodelle | Anhand von Strategien und Modellen der fundamentalen oder technischen Analyse, mögliche Vorhersagen über die Entwicklung des Marktes herausfinden |
