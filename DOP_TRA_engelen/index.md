@@ -40,7 +40,7 @@ Was wird unter einer Kapitalerhöhung verstanden?
 
 Eine Kapitalerhöhung wird von Gesellschaften vollzogen, um das Eigenkapital und damit die Liquidität zu erhöhen. Dazu geht die Gesellschaft hin und gibt neue Aktien, also Anteile an der Gesellschaft aus. Diese neuen Aktien werden junge Aktien genannt. Durch die Ausgabe junger Aktien können Investoren diese Anteile erwerben und werden so zu einem Aktionär dieser Gesellschaft. Mit dem Zeichnen von diesen jungen Aktien erhält die Gesellschaft frisches Kapital für die jeweiligen Bedürfnisse der Gesellschaft. Dabei können die Gründe für eine Kapitalerhöhung unterschiedlicher Natur sein. Zum einen kann das frische Kapital verwendet werden, um Altschulden und damit Fremdkapital zu tilgen. Des Weiteren können neue Investitionen ermöglicht werden, bspw. für eine Firmenfusionierung. Zum anderen kann das neue Kapital bei einem Liquiditätsengpass genutzt werden, die Gesellschaft solvent zu halten. Neue Anteile führen zu einer Verwässerung der Altaktien, da nun mehr Anteile verfügbar sind. Um dieser Verwässerung entgegenzuwirken, erhalten Altaktionäre ein sogenanntes Bezugsrecht. Altaktionäre können die Weisung erteilen die jungen Aktien zu dem jeweiligen Bezugsverhältnis zu zeichnen. Das Bezugsverhältnis führt dazu, dass der Aktienbestand so weit aufgestockt werden kann, sodass die Anteile des Altaktionärs nicht mehr verwässern. Ausführliche Erklärung und einen aktuellen Bezug im Video:
 
-<a href="https://www.youtube.com/watch?v=3I45N-WPFN4&list=PL35XGjy0AQArx49KLhrNo5FAJ9CiutYoL&index=3" target="_blank"><img src="https://informatik-mannheim.github.io/iExpo-Winter-2021/Kapitalerhoehung-Titelbild.jpg" alt="Link zum Video Kapitalerhoehung" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=3I45N-WPFN4&list=PL35XGjy0AQArx49KLhrNo5FAJ9CiutYoL&index=3" target="_blank"><img src="https://informatik-mannheim.github.io/iExpo-Winter-2021/DOP_TRA_engelen/Kapitalerhoehung-Titelbild.jpg" alt="Link zum Video Kapitalerhoehung" width="240" height="180" border="10" /></a>
 
 ***
 
@@ -56,7 +56,7 @@ Bei der T-Aktie handelt es sich um Anteile der Gesellschaft „Deutsche Telekom 
 
 Diese Erfahrung prägte zwei Generationen und ist noch heute, nach über 20 Jahren, bei vielen Deutschen ein Grund die Finger weg vom Aktienhandel zu halten. 
 
-<a href="https://www.youtube.com/watch?v=IM1drQbw_10" target="_blank"><img src="https://informatik-mannheim.github.io/iExpo-Winter-2021/T-Aktie-Titelbild.jpg" alt="Link zum Video Trauma der t-Aktie" width="240" height="180" border="10" /></a>
+[![Link zum Video Trauma der T-Aktie](T-Aktie-Titelbild.jpg)](https://www.youtube.com/watch?v=IM1drQbw_10){:target="_blank" rel="noopener"}
 
 ***
 
