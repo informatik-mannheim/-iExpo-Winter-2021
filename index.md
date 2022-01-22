@@ -67,4 +67,5 @@ Hier einige Feedbacks von Studierenden:
 * [Ein Studierender](DOP_TRA_04/)
 * [Ein Studierender](DOP_TRA_05/)
 * [Ein Studierender](DOP_TRA_06/)
+* [Ein Studierender](DOP_TRA_07/)
 
