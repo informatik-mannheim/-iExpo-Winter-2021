@@ -1,7 +1,7 @@
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
+
 Das Wahlpflichtmodul Technisches Trading
 ========================================
-
-[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
 
 Dozent: Prof. Dr. Frank Dopatka
 -------------------------------
@@ -19,7 +19,7 @@ Das Ziel des ersten Lehrvideos war es aufzuzeigen wie man Handelsstrategien rüc
 
 Hierzu wurden folgende Kennzahlen aufgezeigt und anhand von einem größeren Beispiel angewandt:
 
-- Die Trade-Ratio/ Trefferquote
+- Die Trade-Ratio/Trefferquote
 - Die Payoff Ratio
 - Der Profitfaktor
 
