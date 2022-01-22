@@ -2,7 +2,7 @@
 
 [zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
 
-##Überblick
+## Überblick
 
 In der Wahlpflichtveranstaltug "Technisches Trading" werden umfassend die Grundlagen zum Thema Aktienhandel mithilfe eines ausführlichen Foliensatzes beschrieben. Dieser Foliensatz ist eigenständig durchzuarbeitet und aufkommende Fragen können dann an einem festen Termin, der  wöchentlich stattfindet, besprochen werden. Die Veranstaltung besteht aus drei verschiedenen CA-Abgaben die in Einzelarbeit zu bearbeiten sind. 
 
@@ -18,9 +18,9 @@ Soweit zum organisatorischen Ablauf der Veranstaltung.
 
 ***
 
-##Eigene Erfahrungen
+## Eigene Erfahrungen
 
-###Wikifolio
+### Wikifolio
 
 Das Wikifolio unterliegt gewissen Vorgaben. Während des gesamten Zeitraumes muss mindestens 50% des Geldes immer investiert sein. Dazu muss jeder Trade mindestens eine Stunde gehalten werden, bevor dieser wieder verkauft werden kann.
 
@@ -28,13 +28,13 @@ Der Start mit dem Wikifolio war recht positiv. Bereits nach wenigen Tagen schnel
 
 ***
 
-###Lehrvideo
+### Lehrvideo
 
 Für das Lehrvideo ist eine Videolänge von mindestens zehn Minuten vorgegeben. Das Thema des Lehrvideos konnte sich jeder Teilnehmer selbst aussuchen, aus dem Foliensatz. Zusätzlich zu dem Foliensatz konnten beliebige weitere Materialien hinzugezogen werden. Auch die Ausgestaltung der Lehrvideos ist sehr frei und jedem selbst überlassen. Diese Aufgabe führt dazu sich mit einem Thema intensiver auseinanderzusetzen. Beispielsweise das Thema Kapitalerhöhung. Daneben muss die Struktur ähnlich wie bei einer Präsentation ausgearbeitet werden und eigene Gedankengänge veranschaulicht werden. Das Thema muss dazu in den Gesamtkontext eingeführt werden und mit eigenen Erfahrungen oder realen Beispielen veranschaulicht werden. Durch das Videoformat sind viele mit einer neuen ungewohnten Herausforderung konfrontiert. Dadurch konnten viele Erfahrungen im Bereich Videodreh und -schnitt gesammelt werden, welche viele Teilnehmer wahrscheinlich ohne diese Veranstaltung nicht in dieser Form erhalten hätten. 
 
 Neben der Einarbeitung in das Thema bestand die Herausforderung für Ungeübte im Bereich Videodreh vor allem darin das Video lebendig zu gestalten und eine konsistente Struktur zu verfolgen. Das komplette Video in einem Durchgang aufzunehmen ist dabei nicht zu empfehlen. Oft werden Animationen zu spät aktiviert oder man verspricht sich. Bei einer Präsentation ist dies kein großes Problem, aber in einem Video stört jeder Versprecher. Deswegen bietet es sich an das Video in kleinere Videos aufzuteilen und diese aufzunehmen. Und dann im Nachgang zusammenzuschneiden. 
 
-####Thema
+#### Thema
 
 Was wird unter einer Kapitalerhöhung verstanden?
 
@@ -44,11 +44,11 @@ Eine Kapitalerhöhung wird von Gesellschaften vollzogen, um das Eigenkapital und
 
 ***
 
-###Ausarbeitung
+### Ausarbeitung
 
 Die Ausarbeitung kann im Gegensatz zur Lehrvideo-Aufgabe auch in Textform abgegeben werden. Jedoch unterliegt die Ausarbeitung den Ansprüchen einer wissenschaftlichen Arbeit. Dadurch besteht eine Vorgabe darin nur qualitative Quellen zu verwenden. Auch bei der Ausarbeitung kann das Thema frei gewählt werden, jedoch wird ein aktueller Bezug vorausgesetzt. Durch die gemachten Erfahrungen aus der Lehrvideo-Aufgabe kann jeder Teilnehmer gut abschätzen in welchem Format die Ausarbeitung bearbeitet werden soll. Der Großteil entschied sich für das Videoformat. Dadurch, dass jeder das eigene Thema wählen konnte, bestand auch ein Interesse dahinter sich damit intensiv auseinanderzusetzen. Dementsprechend unproblematisch ist die Erstellung der Ausarbeitung im Videoformat. 
 
-####Thema
+#### Thema
 
 Das Trauma der T-Aktie.
 
