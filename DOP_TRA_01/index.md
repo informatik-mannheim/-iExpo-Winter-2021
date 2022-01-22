@@ -36,11 +36,9 @@ Im zweiten Teil der Aufzeichnung beleuchte ich außerdem verschiedene Anlageform
 Abbildung - Einfluss untersch. Inflationsraten auf den Dax:
 <img src="./pictures/dax_werte.jpg" width="739" />
 
-
 Das Video findet Ihr unter folgendem Link:
 
-[Inflation - Einfluss auf den Aktienmarkt und wie man sein Vermögen schützen kann](https://www.google.com)
-
+[![Inflation - Einfluss auf den Aktienmarkt und wie man sein Vermögen schützen kann](https://img.youtube.com/vi/MROkOQBROcU/1.jpg)](https://www.youtube.com/watch?v=MROkOQBROcU){:target="_blank" rel="noopener"}
 
 ## Wikifolio
 
@@ -50,7 +48,4 @@ Wie man dem nachfolgenden Screenshot entnehmen kann, konnte ich bis zum 21.Novem
 Abbildung - Kursentwicklung Wikifolio:
 <img src="./pictures/wikifolio.jpg" width="739" />
 
-
-
-
-
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)

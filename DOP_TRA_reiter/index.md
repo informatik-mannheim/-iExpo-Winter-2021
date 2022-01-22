@@ -49,7 +49,7 @@ Außerdem habe ich einige KPI's analysiert (Alpha, Beta, R², Capture Up, Captur
 Auf die Frage, ob man sich überhaupt mit Aktiv gemanagten Fonds auseinandersetzten sollte findet ihr am Ende des Videos ebenfalls einen kleinen Vergleich meinerseits. 
 Zum Video mit allen Details gelangt ihr, wenn ihr auf das Bild klickt.
 
-[![Investmentfonds erklärt ](https://img.youtube.com/vi/nQcVFM2I-mc/1.jpg)](https://www.youtube.com/watch?v=nQcVFM2I-mc){:target="_blank" rel="noopener"}
+[![Investmentfonds erklärt](https://img.youtube.com/vi/nQcVFM2I-mc/1.jpg)](https://www.youtube.com/watch?v=nQcVFM2I-mc){:target="_blank" rel="noopener"}
 
 # Wissenschaftliche Ausarbeitung zum Thema Cum-Ex Geschäfte in Deutschland mit Hauptaugenmerk auf die Warburgbank
 Für den dritten Teil der Prüfungsleistung durfte ich eine wissenschaftliche Ausarbeitung zum Thema Cum-Ex Geschäfte und der Warburgbank schreiben. 
