@@ -6,8 +6,7 @@
 Dozent: Prof. Dr. Frank Dopatka
 -------------------------------
 
-Student: Magnus Verclas 
------------------------
+# Magnus Verclas 
 
 Die Vorlesung Technisches Trading wird in jedem Wintersemester von Prof. Dr. Frank Dopatka angeboten. Es wird keine Interaktive Vorlesung gehalten, sondern Folien und ein Vortrag über die Folien auf YouTube bereitgestellt. Die Vorlesung dient als Diskussionstunde, in welcher Fragen zu aktuellen Themen, rund um die Finanzwelt, Fragen zu den Folien oder Organisatorische Fragen geklärt werden können. 
 

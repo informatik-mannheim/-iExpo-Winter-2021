@@ -59,6 +59,7 @@ Alle [Lernmaterialien sind online verfügbar](https://www.youtube.com/playlist?l
 Hier einige Feedbacks von Studierenden:
 
 * [Felix Engelen](DOP_TRA_engelen/)
+* [David Miller](DOP_TRA_miller/)
 * [Erik Reiter](DOP_TRA_reiter/)
 * [Magnus Verclas](DOP_TRA_verclas/)
 * [Student 01](DOP_TRA_01/)

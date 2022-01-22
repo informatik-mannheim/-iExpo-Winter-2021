@@ -6,6 +6,8 @@ Das Wahlpflichtmodul Technisches Trading
 Dozent: Prof. Dr. Frank Dopatka
 -------------------------------
 
+# Felix Engelen
+
 ## Überblick
 
 In der Wahlpflichtveranstaltug "Technisches Trading" werden umfassend die Grundlagen zum Thema Aktienhandel mithilfe eines ausführlichen Foliensatzes beschrieben. Dieser Foliensatz ist eigenständig durchzuarbeitet und aufkommende Fragen können dann an einem festen Termin, der  wöchentlich stattfindet, besprochen werden. Die Veranstaltung besteht aus drei verschiedenen CA-Abgaben die in Einzelarbeit zu bearbeiten sind. 

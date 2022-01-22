@@ -1,14 +1,17 @@
-# Technisches Trading Winter Semester 2021/22
-### Dozent
-Prof. Dr. Frank Dopatka
-### Student
- David Miller
+Das Wahlpflichtmodul Technisches Trading
+========================================
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
+
+Dozent: Prof. Dr. Frank Dopatka
+-------------------------------
+
+# David Miller
 
 ## TRA und die Prüfungsleistung
 Im Wahlfach Technisches Trading bei Prof. Dr. Frank Dopatka lernten wir Studenten zum großen Teil die Theorie hinter der Börse kennen.
 Die Prüfungsleistung war in drei verschiedenen Aufgabenfelder zusammengesetzt: Wikifolio, Lehrvideo und Ausarbeitung.
 Ich habe nur das Wikifolio und das Lehrvideo abgeben können, daher wird folglich nicht die Ausarbeitung behandelt.
-
 
 ## Wikifolio
 Wir Studenten bekamen die Aufgabe gestellt ein Wikifolio mit einem Startkapital von einer Millionen Euro anzulegen und dieses Kapital innerhalb des Semesters zu "vermehren".
@@ -27,4 +30,6 @@ Der Verkauf der Tesla Aktie zu ihrem höchsten Punkt erbrachte mir sehr viel Per
 ## Lehrvideo
 In dem zu drehenden Lehrvideo entschied ich mich als Thema für den Finanzmarkt. Erklärt habe ich die Funktion und die Aufteilung des Finanzmarktes in seine jeweiligen Untermärkte wie zum Beispiel den Kapitalmarkt. Der folgende Screenshot verweist auf das YouTube Video.
 
-[![Lehrvideo](Lehrvideo.JPG)](https://www.youtube.com/watch?v=l2VvLheApBE)
+[![Lehrvideo](Lehrvideo.JPG)](https://www.youtube.com/watch?v=l2VvLheApBE){:target="_blank" rel="noopener"}
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
