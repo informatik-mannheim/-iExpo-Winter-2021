@@ -1,5 +1,8 @@
-# Das Wahlpflichmodul TRA
-Bei dem Technischen Trading geht es hauptsächlich um das Handeln und die Analyse von den verschiedensten Finanzinstrumenten  an der Börse. Das Wahlpflichtmodul(WPM) deckt den größten Teil der Theorie im Hinblick auf vorhandene Börsenprodukte sowie deren Funktionsweise ab. Außerdem konnte man hier etwas über verschiedene Handelsstrategien, Analysemodelle und Risikomanagement lernen.
+# Das Wahlpflichtmodul Technisches Trading
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
+
+Bei dem Technischen Trading geht es hauptsächlich um das Handeln und die Analyse von den verschiedensten Finanzinstrumenten an der Börse. Das Wahlpflichtmodul (WPM) deckt den größten Teil der Theorie im Hinblick auf vorhandene Börsenprodukte sowie deren Funktionsweise ab. Außerdem konnte man hier etwas über verschiedene Handelsstrategien, Analysemodelle und Risikomanagement lernen.
 
 ## Zusammensetzung der Prüfungsleistung
 Die Prüfungsleistung des WPM setzte sich wie folgt zusammen:
