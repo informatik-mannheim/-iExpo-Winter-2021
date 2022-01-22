@@ -22,7 +22,11 @@ Zunächst erkläre ich die Indikatoren jeweils in der Theorie:
 
  ![Theorie](vid_theorie.png)
 
-Und danach erkläre ich die [![Indikatoren anhand von Praxisbeispielen]](https://www.youtube.com/watch?v=EbZb4G6eMJ4){:target="_blank" rel="noopener"}
+Und danach erkläre ich die Indikatoren anhand von Praxisbeispielen:
+
+ ![Praxis](vid_praxis.png)
+
+Hier geht es zum Lehrvideo: <a href="https://www.youtube.com/watch?v=EbZb4G6eMJ4" target="_blank">https://www.youtube.com/watch?v=EbZb4G6eMJ4</a>
 
 ## Die Ausarbeitung
 Anstatt eine Ausarbeitung zu schreiben gewährte uns Prof. Dopatka die Möglichkeit ein weiteres Video zu erstellen. Das Thema konnten wir dabei frei wählen, es musste nur etwas mit Börse/Trading zu tun haben, nicht bereits im Vorlesungsfoliensatz enthalten und nicht zu allgemein gefasst sein. Als Thema entschied ich mich für den Börsencrash 1929 und dessen Folgen.
@@ -34,6 +38,6 @@ Und zeigte den Crash auch nochmal anhand des Charts:
 
  ![zweites Video Chart](vid2_chart.png)
 
-Hier geht es zum zweiten Video: https://www.youtube.com/watch?v=NNcIRAYCMOc
+Hier geht es zum zweiten Video: <a href="https://www.youtube.com/watch?v=NNcIRAYCMOc" target="_blank">https://www.youtube.com/watch?v=NNcIRAYCMOc</a>
 
 [zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
