@@ -1,3 +1,8 @@
+# Das Wahlpflichtmodul Technisches Trading
+# Dozent: Prof. Dr. Frank Dopatka
+ 
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
+
 # Das Lehrvideo: Kerzencharts und deren Interpretation anhand praktischer Beispiele
 Was ist ein Kerzenchart und wie funktioniert so was? Diese Frage habe ich mich tatsächlich schon vorher oft gestellt. Man sieht sie ständig in Videos, in denen Leute, von denen man denkt, dass sie absolute Experten sind, irgendwelche Muster in ein Diagramm malen und erklären, warum man jetzt genau diese Aktie kaufen soll. Nicht zuletzt aus diesem Eigeninteresse heraus habe ich mir die Kerzencharts zum Thema meines Lehrvideos gemacht.
 
@@ -9,9 +14,7 @@ Stundenlang aufzunehmen, wie ich Powerpoint-Folien vorlese war mir aber zu langw
 
 Am Ende kam hierbei ein knapp 24 Minuten langes Video heraus, dass Sie sich hier anschauen können:
 
-<a href="https://www.youtube.com/watch?v=ffPM2JMTzWg"><img src="https://i.ibb.co/YLfDJ32/LEHRVIDEO.png" alt="LEHRVIDEO" border="0"></a><br />
-
-
+<a href="https://www.youtube.com/watch?v=ffPM2JMTzWg" target="_blank"><img src="https://i.ibb.co/YLfDJ32/LEHRVIDEO.png" alt="LEHRVIDEO" border="0"></a><br />
 
 # Die Ausarbeitung: 9/11 und die Börse - Was passiert, wenn das Parkett geschlossen bleibt?
 
@@ -66,4 +69,6 @@ Aber das Wikifolio war rückblickend für mich nicht der wichtigste Erkenntnisge
 
 Ebenso konnte ich mich durch die Ausarbeitung an wissenschaftlichen Methoden üben. Nicht nur musste ich eine Literaturrecherche nach wissenschaftlichen Maßstäben aufarbeiten, die Ergebnisse dieser Recherche mussten eben auch nach wissenschaftlichen Standards aufgearbeitet werden. Da ich mich für die schriftliche Ausarbeitung entschieden habe, konnte ich hierbei auch das wissenschaftliche Schreiben üben - eine perfekte Vorbereitung auf die Bachelorthesis!
 
- Es bleibt also abschließend zu sagen, dass die freien Wahlmöglichkeiten beim Erstellen der Deliverables es ermöglichen, das Thema Technisches Trading nach den individuellen Interessen kennenzulernen. Dabei bleibt es aber nicht beim persönlichen Erkenntnisgewinn: Sowohl die Ausarbeitung als auch das Lehrvideo halten diesen persönlichen Erkenntnisgewinn auch für andere fest. Man kann also nicht nur für sich selbst lernen, sondern sein Gelerntes auch für andere verfügbar machen.
+Es bleibt also abschließend zu sagen, dass die freien Wahlmöglichkeiten beim Erstellen der Deliverables es ermöglichen, das Thema Technisches Trading nach den individuellen Interessen kennenzulernen. Dabei bleibt es aber nicht beim persönlichen Erkenntnisgewinn: Sowohl die Ausarbeitung als auch das Lehrvideo halten diesen persönlichen Erkenntnisgewinn auch für andere fest. Man kann also nicht nur für sich selbst lernen, sondern sein Gelerntes auch für andere verfügbar machen.
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
