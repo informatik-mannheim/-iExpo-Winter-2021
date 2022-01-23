@@ -1,4 +1,13 @@
-# Technisches Trading
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
+
+Das Wahlpflichtmodul Technisches Trading
+========================================
+
+Dozent: Prof. Dr. Frank Dopatka
+-------------------------------
+
+# Cihad Aydemir
+
 ## Einleitung
 Bei dem Kurs "Technisches Trading", welches von Prof. Dr. Dopatka angeboten wird, geht es darum grundlegende Defintionen und Strategien zum Handel mit Aktien und ähnlichen Wertpapieren zu lernen. Dabei werden die Themen ausführlich in Videoaufzeichnungen von Prof. Dr. Dopatka behandelt. Zusätzlich gibt es wöchentliche Frage- und Diskussionsrunde bei denen offene Fragen und interessante Themen behandelt werden können.
 
@@ -13,7 +22,7 @@ So konnte ich zur letzten Indexmessung am 16.01.2022 den praktischen Teil des "T
 ### Lehrvideo: Anleihen - Anhand von praktischen Beispielen erklärt
 Für das zu erstellende Lehrvideo habe ich mich für das Thema "Anleihen" entschieden. Wie man bereits an meinem Portfolio im praktischen Teil erkennen kann liegen wertsichere und risikoarme Investitionen in meinem Interessengebiet, so bat sich das Thema "Anleihen" sehr gut an, da diese auch von vielen Experten als wesentlich risikoärmer als der Handel mit Aktien angesehen wird. Hierbei habe ich versucht anhand von praktischen Beispielen die Grundmerkmale, Definitionen der Anleihen, den Handel mit Anleihen und die verschiedenen Arten von Anleihen zu erklären. Besteht Interesse zu diesem Video, so kann man sich dies mit einem Klick auf die nachfolgende Abbildung anschauen. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=7aGIl3AQKdo" target="_blank"><img src="http://img.youtube.com/vi/7aGIl3AQKdo/0.jpg" alt="Anleihen erklärt an praktischen Beispielen (Cihad Aydemir)" width="500" height="350" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7aGIl3AQKdo" target="_blank"><img src="http://img.youtube.com/vi/7aGIl3AQKdo/0.jpg" alt="Anleihen erklärt an praktischen Beispielen (Cihad Aydemir)" width="500" height="350" border="10" /></a><br/>
  **Anleihen erklärt an praktischen Beispielen (Cihad Aydemir)**
 ### Ausarbeitung: Auswirkungen der Corona-Pandemie auf die Wirtschaft
 
@@ -24,3 +33,5 @@ Für die Ausarbeitung habe ich mir das Thema "Auswirkungen der Corona-Pandemie a
 ## Fazit
 
 Der Kurs "Technisches Trading" gewährt den Studierenden einen sehr guten Einblick in die Welt der Börse und ermöglicht es wichtige Kenntnisse zu gewinnen. Selbst für jemanden wie mich der bisher keinerlei Erfahrung in diesen Themen hatte, war es möglich sehr viel Erfahrung zu sammeln und neues zu lernen. Zudem macht das kompetitive Format des praktischen Teils das ganze noch einmal spannender und setzt einen sehr guten Reiz besser zu werden. 
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Winter-2021/)
