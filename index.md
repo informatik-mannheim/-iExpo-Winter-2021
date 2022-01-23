@@ -58,6 +58,7 @@ Alle [Lernmaterialien sind online verfügbar](https://www.youtube.com/playlist?l
 
 Hier einige Feedbacks von Studierenden:
 
+* [Cihad Aydemir](DOP_TRA_aydemir/)
 * [Felix Engelen](DOP_TRA_engelen/)
 * [David Miller](DOP_TRA_miller/)
 * [Erik Reiter](DOP_TRA_reiter/)
