@@ -60,6 +60,7 @@ Hier einige Feedbacks von Studierenden:
 
 * [Cihad Aydemir](DOP_TRA_aydemir/)
 * [Felix Engelen](DOP_TRA_engelen/)
+* [Johannes Günther](DOP_TRA_guenther/)
 * [David Miller](DOP_TRA_miller/)
 * [Erik Reiter](DOP_TRA_reiter/)
 * [Magnus Verclas](DOP_TRA_verclas/)
