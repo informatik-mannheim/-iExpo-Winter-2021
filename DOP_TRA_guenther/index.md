@@ -19,14 +19,14 @@ Ein Händler muss grundsätzlich nur folgende Dinge machen: Kaufen, Verkaufen un
 
 ## I. Wikifolio - Kaufen, Verkaufen und Geld verdienen
 
-Über die Plattform [Wikifolio](https://www.wikifolio.com/de/de/home) kann sich jeder einmal wie ein Trader fühlen. Dazu ist nur ein Musterportfolio zu erstellen, bevor man zu realen Kursen seine Handelsideen ohne Risiko von finanziellen Verlusten umsetzen kann. Das Ziel war es nun innerhalb des Semesters mit einer Handelsstrategie und einem virtuellen Handelskonto, die größtmögliche Rendite zu erzielen.
+Über die Plattform [Wikifolio](https://www.wikifolio.com/de/de/home){:target="_blank" rel="noopener"} kann sich jeder einmal wie ein Trader fühlen. Dazu ist nur ein Musterportfolio zu erstellen, bevor man zu realen Kursen seine Handelsideen ohne Risiko von finanziellen Verlusten umsetzen kann. Das Ziel war es nun innerhalb des Semesters mit einer Handelsstrategie und einem virtuellen Handelskonto, die größtmögliche Rendite zu erzielen.
 
 
 **Handelsidee**
 
 Die Handelsidee des vorliegenden Portfolios beschränkte sich auf die passive und zeitarme Strategie des _Buy'n'Hold_. Genauer wurde nach den Ansätzen, die Gerd Kommer in seinem Buch _Souverän investieren mit Indexfonds und ETFS_ beschreibt, eine Indexing-Strategie verfolgt, also eine Nachbildung des gesamten Marktes. 
 
-![Wikifolio Positionen](Wikifolio_Portfolio.PNG "Wikifolio Positionen")
+![Wikifolio Positionen](Wikifolio_Portfolio.PNG "Wikifolio Positionen"){:target="_blank" rel="noopener"}
 
 [Portfolio Startseite]
 
@@ -35,7 +35,7 @@ Auch wenn sich laut dem allgemeinen Wissen ein Buy'n'Hold-Ansatz nicht unter den
 
 Aus dem Gesichtspunkt der Pflege hält sich hier der Zeitaufwand in absoluten Grenzen. Die Strategie bildet den Markt ab und das über kostengünstige ETFs. Lediglich würde auf längeren Zeiträumen ein Rebalancing anfallen, also die Wiederherstellung der anfänglich bestimmten prozentualen Aufteilung des Portfolios.
 
-![Wikifolio Chart](Wikifolio_Chart_Ueberischt.PNG "Wikifolio Chart")
+![Wikifolio Chart](Wikifolio_Chart_Ueberischt.PNG "Wikifolio Chart"){:target="_blank" rel="noopener"}
 
 [Portfolio Startseite]
 
@@ -46,21 +46,21 @@ Kurz vor dem Ende des Semesters steht das Portfolio in einem leichten Plus bei 1
 
 ![Korrelation des Wikifolios mit dem DAX](Wikifolio_Chart_Dax.PNG "Korrelation des Wikifolios mit dem DAX")
 
-[Portfolio Startseite]
+[Portfolio Startseite]{:target="_blank" rel="noopener"}
 
 
 Dennoch unterliegt man mit diesem Ansatz allen (ja wirklich _ALLEN_) Schwankungen, die der Markt so in einem 4-Monats-Zeitraum erlebt. So werden sie sich sicher auch noch aus den Nachrichten über die Entdeckung einer neuen noch gefährlicheren Mutation erinnern, die erneute Sorgen in dieser pandemischen Lage in die Welt gebracht hat. Der Markt hat auch diese Information verarbeitet und somit den Wert dieses Portfolios Ende November auf seinen Startwert zurückgesetzt.
 
 ![Wikifolio Chart mit Omikron-Knick](Wikifolio_Chart_Ueberischt_Omikron_Knick.PNG "Wikifolio Chart mir Omikron-Knick")
 
-[Portfolio Startseite]
+[Portfolio Startseite]{:target="_blank" rel="noopener"}
 
 
 Anfang des Jahres ist auf dem Verlauf ein erneuter Rücksetzer zu sehen. Dieser lässt sich sicher nicht auf eine Nachricht zurückführen. Dennoch wird mitunter die Entscheidung der US-amerikanischen Notenbank _Federal Reserve (FED)_ Einfluss gehabt haben, welche vereinfacht ausgedrückt weniger Geld in die Weltmärkte einbringen wird.
 
 ![Wikifolio Chart mit Fed-Knick](Wikifolio_Chart_Ueberischt_FED.PNG "Wikifolio Chart mit Fed-Knick")
 
-[Portfolio Startseite]
+[Portfolio Startseite]{:target="_blank" rel="noopener"}
 
 
 ---
