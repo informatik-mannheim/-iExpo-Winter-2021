@@ -65,12 +65,12 @@ alt="Zertifikate als Anlageform" width="100%" height="100%" border="3" /></a>
 
 **Discount-Zertifikate**
 
-Alles wird teurer. Benzin, Holz, Strom, etc. Die Inflation steigt stetig in Deutschland. Da freut man sich doch, wenn es etwas vergünstigt gibt. Nein, ich rede hier nicht vom Wochenend-Angebot für das Kilo-Kartoffeln beim Discounter um die Ecke, sondern um vergünstigte Investments in ein Finanzinstrument. _Discount-Zertifikate_ versprechen genau das. Ein Investment in ein Finanzinstrument, das man billiger erhalten kann, als es momentan am Markt gehandelt wird. Welche Chancen, aber auch besonders welche Risiken es bei diesem Finanzinstrument gibt, erfahren Sie im [Abschnitt _Discount-Zertifikate_](https://www.youtube.com/watch?v=ns_0GfwBqB4&t=598s) des Lehrvideos.
+Alles wird teurer. Benzin, Holz, Strom, etc. Die Inflation steigt stetig in Deutschland. Da freut man sich doch, wenn es etwas vergünstigt gibt. Nein, ich rede hier nicht vom Wochenend-Angebot für das Kilo-Kartoffeln beim Discounter um die Ecke, sondern um vergünstigte Investments in ein Finanzinstrument. _Discount-Zertifikate_ versprechen genau das. Ein Investment in ein Finanzinstrument, das man billiger erhalten kann, als es momentan am Markt gehandelt wird. Welche Chancen, aber auch besonders welche Risiken es bei diesem Finanzinstrument gibt, erfahren Sie im [Abschnitt _Discount-Zertifikate_](https://www.youtube.com/watch?v=ns_0GfwBqB4&t=598s){:target="_blank" rel="noopener"} des Lehrvideos.
 
 
 **Express-Zertifikate**
 
-Auf der Such nach profitablen Geldanlagen mit wenigstens ein bisschen Rendite müssen Privatkunden meistens immer tiefer graben. Produkte mit dem Namen "Sommerzins" erwecken ein Gefühl von Sicherheit und Rendite gleichzeitig. Was sich aber unter der Haube solcher Produkte doch verbergen kann, sind komplizierte strukturierte oder derivative Finanzprodukte wie _Express-Zertifikate_. Was das ist und vor allem wie das überhaupt funktioniert, das eine "gesicherte" Rendite angeboten werden kann, erfahren Sie in [Abschnitt _Express-Zertifikate_](https://www.youtube.com/watch?v=ns_0GfwBqB4&t=1554s) des Lehrvideos.
+Auf der Such nach profitablen Geldanlagen mit wenigstens ein bisschen Rendite müssen Privatkunden meistens immer tiefer graben. Produkte mit dem Namen "Sommerzins" erwecken ein Gefühl von Sicherheit und Rendite gleichzeitig. Was sich aber unter der Haube solcher Produkte doch verbergen kann, sind komplizierte strukturierte oder derivative Finanzprodukte wie _Express-Zertifikate_. Was das ist und vor allem wie das überhaupt funktioniert, das eine "gesicherte" Rendite angeboten werden kann, erfahren Sie in [Abschnitt _Express-Zertifikate_](https://www.youtube.com/watch?v=ns_0GfwBqB4&t=1554s){:target="_blank" rel="noopener"} des Lehrvideos.
 
 
 ---
