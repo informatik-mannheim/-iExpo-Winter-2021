@@ -28,8 +28,6 @@ Die Handelsidee des vorliegenden Portfolios beschränkte sich auf die passive un
 
 ![Wikifolio Positionen](Wikifolio_Portfolio.PNG "Wikifolio Positionen"){:target="_blank" rel="noopener"}
 
-[Portfolio Startseite]
-
 
 Auch wenn sich laut dem allgemeinen Wissen ein Buy'n'Hold-Ansatz nicht unter den Begriff des _Tradings_ oder _aktiven Handelns_ fällt, ist dennoch ein Zeitraum von 4-Monaten noch zu kurz, um die Strategie als langfristiges Investieren zu klassifizieren. Wir bewegen uns hier in einer Grauzone, was diese Strategie betrifft.
 
@@ -37,24 +35,15 @@ Aus dem Gesichtspunkt der Pflege hält sich hier der Zeitaufwand in absoluten Gr
 
 ![Wikifolio Chart](Wikifolio_Chart_Ueberischt.PNG "Wikifolio Chart"){:target="_blank" rel="noopener"}
 
-[Portfolio Startseite]
-
-
 **Ergebnis**
 
 Kurz vor dem Ende des Semesters steht das Portfolio in einem leichten Plus bei 1,9% (Stand: 2022-01-15 11:12) gemessen seit dem 01.10.2021. Die Korrelation mit dem Markt als solches kann auch aus dem Vergleich mit anderen bekannten Indizes abgeleitet werden.
 
 ![Korrelation des Wikifolios mit dem DAX](Wikifolio_Chart_Dax.PNG "Korrelation des Wikifolios mit dem DAX")
 
-[Portfolio Startseite]{:target="_blank" rel="noopener"}
-
-
 Dennoch unterliegt man mit diesem Ansatz allen (ja wirklich _ALLEN_) Schwankungen, die der Markt so in einem 4-Monats-Zeitraum erlebt. So werden sie sich sicher auch noch aus den Nachrichten über die Entdeckung einer neuen noch gefährlicheren Mutation erinnern, die erneute Sorgen in dieser pandemischen Lage in die Welt gebracht hat. Der Markt hat auch diese Information verarbeitet und somit den Wert dieses Portfolios Ende November auf seinen Startwert zurückgesetzt.
 
 ![Wikifolio Chart mit Omikron-Knick](Wikifolio_Chart_Ueberischt_Omikron_Knick.PNG "Wikifolio Chart mir Omikron-Knick")
-
-[Portfolio Startseite]{:target="_blank" rel="noopener"}
-
 
 Anfang des Jahres ist auf dem Verlauf ein erneuter Rücksetzer zu sehen. Dieser lässt sich sicher nicht auf eine Nachricht zurückführen. Dennoch wird mitunter die Entscheidung der US-amerikanischen Notenbank _Federal Reserve (FED)_ Einfluss gehabt haben, welche vereinfacht ausgedrückt weniger Geld in die Weltmärkte einbringen wird.
 
