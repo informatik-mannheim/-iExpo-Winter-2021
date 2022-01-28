@@ -85,13 +85,7 @@ Hier einige Ergebnisse und Feedbacks von Studierenden:
 * [David Miller](DOP_TRA_miller/)
 * [Erik Reiter](DOP_TRA_reiter/)
 * [Magnus Verclas](DOP_TRA_verclas/)
-* [Student 01](DOP_TRA_01/)
-* [Student 02](DOP_TRA_02/)
-* [Student 03](DOP_TRA_03/)
-* [Student 04](DOP_TRA_04/)
-* [Student 05](DOP_TRA_05/)
-* [Student 06](DOP_TRA_06/)
-* [Student 07](DOP_TRA_07/)
+* Student [01](DOP_TRA_01/), [02](DOP_TRA_02/), [03](DOP_TRA_03/), [04](DOP_TRA_04/), [05](DOP_TRA_05/), [06](DOP_TRA_06/), [07](DOP_TRA_07/)
 
 ### MARS – Center for Entrepreneurship 
 
