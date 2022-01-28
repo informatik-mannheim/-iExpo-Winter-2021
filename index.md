@@ -36,6 +36,12 @@ Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für e
 
 * [Team B-2](DOP_WEB_B2/)
 
+### 4. Semester: Software-Entwicklungsprojekt (SEP)
+
+#### Studiengang IB bei Prof. Dr. Peter Kaiser
+
+[Poster zum SEP WS21/22](2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
+
 ### 6./7. Semester: Wahlfach Technisches Trading
 
 #### Studiengang UIB bei Prof. Dr. Frank Dopatka
@@ -56,7 +62,7 @@ Alle [Lernmaterialien sind online verfügbar](https://www.youtube.com/playlist?l
 * 40% Video oder schriftliche Ausarbeitung zu einem ausgewählten Thema, gern mit aktuellem Bezug. Das Video ist zu indizieren und in einer [YouTube-Playlist](https://www.youtube.com/playlist?list=PL35XGjy0AQAr_kL3ZgQPhYi4WMGMyCz9M){:target="_blank" rel="noopener"} zu veröffentlichen ist.
 * 10% als Zusatzpunkte durch die Teilnahme an der iExpo.
 
-Hier einige Feedbacks von Studierenden:
+Hier einige Ergebnisse und Feedbacks von Studierenden:
 
 * [Cihad Aydemir](DOP_TRA_aydemir/)
 * [Felix Engelen](DOP_TRA_engelen/)
