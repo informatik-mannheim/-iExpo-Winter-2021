@@ -40,13 +40,26 @@ Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für e
 
 #### Studiengang IB bei Prof. Dr. Sven Klaus und Prof. Dr. Peter Kaiser
 
+### 4. Semester: Veranstaltung Software-Entwicklungsprojekt
+
+#### Studiengang IB bei Prof. Dr. Sven Klaus & Prof. Dr. Peter Kaiser
+
+Eine Software-Applikation im Team entwickeln, von der ersten Idee eines Auftraggebers bis zur Lieferung des fertigen Produkts: das ist die Idee des Software-Entwicklungsprojektes (SEP). Nach der Theorie in den ersten drei Semestern müssen die Studierenden ihr erworbenes Wissen praktisch anwenden. Gleich die erste Aufgabe ist herausfordernd: was soll entwickelt werden? Der Vortrag des Unternehmens, das als Kunde auftritt, gibt viele Hinweise, jedoch auch viele offene Fragen.
+
+Die Teams - 4 bis 6 Informatiker:innen und i.d.R. 1 bis 2 Kommunikationsdesigner:innen - arbeiten selbständig. Einzige Vorgabe: das vom Kunden gewünschte Produkt ist in fünf zwei-Wochen-Scrum-Sprints zu erstellen. 
+
+Die Ausbildungsziele ist zum einen fachlich, d.h. Software-Designs, Entwicklungsgebungen, Frameworks, etc. zu bewerten und anzuwenden, zum anderen überfachlich, d.h. Teamwork, Umgehen mit Fehlern, Selbstvertrauen, etc.
+
+Ihre Erfahrungen haben die Teams in Postern dokumentiert.
 * [Poster zum SEP WS21/22](SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
-* [ThreatSea-Flyer](SEP/2021WS_CPUMoewen_threatsea_Flyer.pdf){:target="_blank" rel="noopener"}
 * [Das Hexagon](SEP/2021WS_Das Hexagon.pdf){:target="_blank" rel="noopener"}
 * [Error 418](SEP/2021WS_Error418.pdf){:target="_blank" rel="noopener"}
-* [Threat Existence Analyser (T.E.A.) Flyer](SEP/2021WS_Error418_TEA_Flyer.pdf){:target="_blank" rel="noopener"}
 * [Hackstreet Boys and Girls](SEP/2021WS_HackStreet.pdf){:target="_blank" rel="noopener"}
 * [Team Inno](SEP/2021WS_TeamInno.pdf){:target="_blank" rel="noopener"}
+
+Für das Produkt haben einige Teams auch Flyer erstellt.
+* [ThreatSea-Flyer](SEP/2021WS_CPUMoewen_threatsea_Flyer.pdf){:target="_blank" rel="noopener"}
+* [Threat Existence Analyser (T.E.A.) Flyer](SEP/2021WS_Error418_TEA_Flyer.pdf){:target="_blank" rel="noopener"}
 
 ### 6./7. Semester: Wahlfach Technisches Trading
 
