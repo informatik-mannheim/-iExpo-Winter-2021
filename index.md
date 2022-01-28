@@ -72,3 +72,6 @@ Hier einige Feedbacks von Studierenden:
 * [Student 06](DOP_TRA_06/)
 * [Student 07](DOP_TRA_07/)
 
+### MARS – Center for Entrepreneurship 
+
+* [Cross-Platform Development mit Flutter](GIESS/){:target="_blank" rel="noopener"}
