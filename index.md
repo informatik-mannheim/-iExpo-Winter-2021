@@ -36,10 +36,6 @@ Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für e
 
 * [Team B-2](DOP_WEB_B2/)
 
-### 4. Semester: Software-Entwicklungsprojekt (SEP)
-
-#### Studiengang IB bei Prof. Dr. Sven Klaus und Prof. Dr. Peter Kaiser
-
 ### 4. Semester: Veranstaltung Software-Entwicklungsprojekt
 
 #### Studiengang IB bei Prof. Dr. Sven Klaus & Prof. Dr. Peter Kaiser
