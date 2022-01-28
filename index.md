@@ -40,13 +40,13 @@ Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für e
 
 #### Studiengang IB bei Prof. Dr. Sven Klaus und Prof. Dr. Peter Kaiser
 
-[Poster zum SEP WS21/22](SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
-[ThreatSea-Flyer](SEP/2021WS_CPUMoewen_threatsea_Flyer.pdf){:target="_blank" rel="noopener"}
-[Das Hexagon](SEP/2021WS_Das Hexagon.pdf){:target="_blank" rel="noopener"}
-[Error 418](SEP/2021WS_Error418.pdf){:target="_blank" rel="noopener"}
-[Threat Existence Analyser (T.E.A.) Flyer](SEP/2021WS_Error418_TEA_Flyer.pdf){:target="_blank" rel="noopener"}
-[Hackstreet Boys and Girls](SEP/2021WS_HackStreet.pdf){:target="_blank" rel="noopener"}
-[Team Inno](SEP/2021WS_TeamInno.pdf){:target="_blank" rel="noopener"}
+* [Poster zum SEP WS21/22](SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
+* [ThreatSea-Flyer](SEP/2021WS_CPUMoewen_threatsea_Flyer.pdf){:target="_blank" rel="noopener"}
+* [Das Hexagon](SEP/2021WS_Das Hexagon.pdf){:target="_blank" rel="noopener"}
+* [Error 418](SEP/2021WS_Error418.pdf){:target="_blank" rel="noopener"}
+* [Threat Existence Analyser (T.E.A.) Flyer](SEP/2021WS_Error418_TEA_Flyer.pdf){:target="_blank" rel="noopener"}
+* [Hackstreet Boys and Girls](SEP/2021WS_HackStreet.pdf){:target="_blank" rel="noopener"}
+* [Team Inno](SEP/2021WS_TeamInno.pdf){:target="_blank" rel="noopener"}
 
 ### 6./7. Semester: Wahlfach Technisches Trading
 
