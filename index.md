@@ -38,14 +38,15 @@ Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für e
 
 ### 4. Semester: Software-Entwicklungsprojekt (SEP)
 
-#### Studiengang IB bei Prof. Dr. Peter Kaiser
+#### Studiengang IB bei Prof. Dr. Sven Klaus und Prof. Dr. Peter Kaiser
 
-[Poster zum SEP WS21/22](KAE_SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
-[Poster zum SEP WS21/22](KAE_SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
-[Poster zum SEP WS21/22](KAE_SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
-[Poster zum SEP WS21/22](KAE_SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
-[Poster zum SEP WS21/22](KAE_SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
-[Poster zum SEP WS21/22](KAE_SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
+[Poster zum SEP WS21/22](KLS_KAE_SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
+[ThreatSea-Flyer](KLS_KAE_SEP/2021WS_CPUMoewen_threatsea_Flyer.pdf){:target="_blank" rel="noopener"}
+[Das Hexagon](KLS_KAE_SEP/2021WS_Das Hexagon.pdf){:target="_blank" rel="noopener"}
+[Error 418](KLS_KAE_SEP/2021WS_Error418.pdf){:target="_blank" rel="noopener"}
+[Threat Existence Analyser (T.E.A.) Flyer](KLS_KAE_SEP/2021WS_Error418_TEA_Flyer.pdf){:target="_blank" rel="noopener"}
+[Hackstreet Boys and Girls](KLS_KAE_SEP/2021WS_HackStreet.pdf){:target="_blank" rel="noopener"}
+[Team Inno](KLS_KAE_SEP/2021WS_TeamInno.pdf){:target="_blank" rel="noopener"}
 
 ### 6./7. Semester: Wahlfach Technisches Trading
 
