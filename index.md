@@ -74,4 +74,6 @@ Hier einige Feedbacks von Studierenden:
 
 ### MARS – Center for Entrepreneurship 
 
+Du möchtest eine App bauen, die sowohl auf Android- als auch iOS-Geräten läuft, sich per Webbrowser bedienen lässt und auch unter Linux, MacOS, Windows und sogar dem RaspberryPi lauffähig ist?
+
 * [Cross-Platform Development mit Flutter](GIESS/){:target="_blank" rel="noopener"}
