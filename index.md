@@ -40,7 +40,7 @@ Statt eines Semesterspiels existiert im 3. Semester eine Projektumsetzung für e
 
 #### Studiengang IB bei Prof. Dr. Peter Kaiser
 
-[Poster zum SEP WS21/22](2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
+[Poster zum SEP WS21/22](KAE_SEP/2021WS_CPUMoewen.pdf){:target="_blank" rel="noopener"}
 
 ### 6./7. Semester: Wahlfach Technisches Trading
 
